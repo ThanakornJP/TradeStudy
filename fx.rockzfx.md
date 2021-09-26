@@ -40,7 +40,6 @@
     2. Uptrend = HH and HL
     3. Ranging
 
-
 `Tip` : Identify 4H direction, then trade the same direction as 4H 
 
 `Tip` : Focus on `TODAY`. Don't look back to far, we only need fresh trend not the major trend bcoz we are day trader; we get in and out the same day.
