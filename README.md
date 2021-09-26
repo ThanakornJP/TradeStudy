@@ -6,8 +6,8 @@
 1. [Master Class 1.0 `Keep it simple`](#master-class-10)
 2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-20-part-1)
 3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-20-part-2)
-4. [Master Class 3.0 `Single timeframe mastery`](#master-class-3)
-5. [Master Class 4.0 `Scalping mastery`](#master-class-4)
+4. [Master Class 3.0 `Single timeframe mastery`](#master-class-30)
+5. [Master Class 4.0 `Scalping mastery`](#master-class-40)
 6. [Practice and Sample](#practice-and-sample)
 7. [Tip and Note](#tip-and-note)
 8. [Challenge](#challenge)
@@ -32,12 +32,15 @@
 `Game of Probability`
 `The more Confluences, the more favour`
 `Strategy = Structure(Constant), Pattern(Probability), Behaviour(Dynamic)`
-`3-simple-thing to be examined`
+
+It simply goes thru 3 step 
+1. Market Structure - Identify direction bias [link](#market-structure)
+2. Chart Pattern - Identify setup [link](#chart-pattern)
+3. Candle Bahaviour - Identify trigger by its behaviour [link](#candlestick-bahaviour)
 
 ### Market Structure
 `1. identify structure`
-
-1. Identify direction bias
+1. Identify `direction bias`
     1. Downtrend = LH and LL
     2. Uptrend = HH and HL
     3. Ranging
@@ -54,7 +57,7 @@
 - structure is structure
 - H4 is holy grail for day trader 
 
-2. Identify 2 levels
+2. Identify `2 levels`
     1. Uptrend = Latest higher high and higher low
     `Note` : we expect new High from price breaking above lastest higher high
     `Note` : we monitor price breaking below latest higher low because it is possibly sentiment change in the market. It doesn't mean market turnaround, it means erratic so get out of the market today
@@ -113,7 +116,7 @@
         ![uptrend-reversal4](uptrend-reversal4.png)
         ![uptrend-reversal5](uptrend-reversal5.png)
 
-### Candlestick 
+### Candle Bahaviour 
 `3. identify the trigger by its bahaviour`
 
 1. 3-candle Formation
