@@ -356,6 +356,17 @@ It simply goes thru 3 step
 
 ### Entry Pattern
 1. 4H Wick Rejection
+
+```
+1. find wick rejection followed by momentum shift bar
+2. xx
+```
+
+ex.1
+
+ex.2 
+![entry-4h-wick-reject-ex1](entry-4h-wick-reject-ex1.png)
+
 2. Breakout 50% retracement
 3. Over-extended continuation
 4. Bottom/Double Top continuation
