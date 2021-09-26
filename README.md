@@ -2,7 +2,7 @@
 
 ---
 # Agenda
-0. [Master Class Bootcamp `Game of Probability`](#bootcamp)
+0. [Master Class Bootcamp `Game of Probability`](#master-class-bootcamp)
 1. [Master Class 1.0 `Keep it simple`](#master-class-1)
 2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-2-1)
 3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-2-2)
@@ -28,11 +28,11 @@
     - [Processing H4-H1-M1](#h4-h1-m1)
 
 ---
-# Master Class Bootcamp {#bootcamp} 
+# Master Class Bootcamp
 Master Class 1.0 {#master-class-1} 
 
 ---
-### Place 1 {#place-1}
+### Place 1
 
 Hello, this is some text to fill in this, [here](#place-2), is a 
 link to the second place.  
@@ -68,7 +68,7 @@ link to the second place.
 link to the second place.  
 link to the second place.  
 
-### Place 2 {#place-2}
+### Place 2 
 
 Place one has the fun times of linking here, but I can also link back [here](#place-1).
 link to the second place.  
