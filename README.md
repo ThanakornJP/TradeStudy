@@ -3,9 +3,9 @@
 ---
 # Agenda
 0. [Master Class Bootcamp `Game of Probability`](#master-class-bootcamp)
-1. [Master Class 1.0 `Keep it simple`](#master-class-1-0)
-2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-2-0-part-1)
-3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-2-0-part-2)
+1. [Master Class 1.0 `Keep it simple`](#master-class-10)
+2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-20-part-1)
+3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-20-part-2)
 4. [Master Class 3.0 `Single timeframe mastery`](#master-class-3)
 5. [Master Class 4.0 `Scalping mastery`](#master-class-4)
 6. [Practice and Sample](#practice-and-sample)
