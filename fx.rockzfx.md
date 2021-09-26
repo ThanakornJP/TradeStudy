@@ -2,46 +2,67 @@
 
 ---
 # Agenda
-0. [Master Class Bootcamp](#bootcamp)
+0. [Master Class Bootcamp `Game of Probability`](#bootcamp)
 1. [Master Class 1.0 `Keep it simple`](#master-class-1)
-2. [Master Class 2.0 `Multiple timeframe mastery`](#master-class-2)
-3. [Master Class 3.0 `Single timeframe mastery`](#master-class-3)
-4. [Master Class 4.0 `Unrivalled 1M scalping`](#master-class-4)
-5. [Practice and Sample](#practice-and-sample)
-6. [Tip and Note](#tip-and-note)
+2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-2-1)
+3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-2-2)
+4. [Master Class 3.0 `Single timeframe mastery`](#master-class-3)
+5. [Master Class 4.0 `Scalping mastery`](#master-class-4)
+6. [Practice and Sample](#practice-and-sample)
+7. [Tip and Note](#tip-and-note)
+8. [Challenge](#challenge)
+9. [Daily Question & Ask](#daily-qa)
+10. [Grocery](#grocery)
+    - [Trade Process](#trade-process)
+    - [Trade Perceptive Intuition](#trade-perceptive-intuition)
+    - [Indicator](#trade-indicator)
+    - [Pattern](#trade-pattern)
+    - [Chart Pattern](#pattern-chart)
+    - [Entry Pattern](#pattern-entry)
+    - [Rule](#trade-rule)
+    - [Key Level](#trade-key-level)
+    - [Reading Value](#read-value)
+    - [Reading Chart](#read-chart)
+    - [Processing H4-H1-M15](#h4-h1-m15)
+    - [Processing H4-H1-M30](#h4-h1-m30)
+    - [Processing H4-H1-M1](#h4-h1-m1)
 
 --- 
 # Master Class Bootcamp {#bootcamp} 
-`Trend Trading, Game of Probability, More Confluences`
+`Game of Probability`
+`The more Confluences, the more favour`
 `Strategy = Structure(Constant), Pattern(Probability), Behaviour(Dynamic)`
+`3-simple-thing to be examined`
 
-### 3-simple-thing to be examined
-1. Market Structure
-    1. Identify direction
-        1. Downtrend = LH and LL
-        2. Uptrend = HH and HL
-        3. Ranging
+### 1. Market Structure
+1. Identify direction
+    1. Downtrend = LH and LL
+    2. Uptrend = HH and HL
+    3. Ranging
 
 
-    `Tip` : Identify 4H direction, then trade the same direction as 4H 
-    
-    `Tip` : Focus on `TODAY`. Don't look back to far, we only need fresh trend not the major trend bcoz we are day trader; we get in and out the same day.
+`Tip` : Identify 4H direction, then trade the same direction as 4H 
 
-    `Note` : Trade with the trend 
-    - trade when you can find direction bias clearly
-    - no trade for ranging market
+`Tip` : Focus on `TODAY`. Don't look back to far, we only need fresh trend not the major trend bcoz we are day trader; we get in and out the same day.
 
-    `Note` : No matter what timeframe apply the same concept
-    - structure is structure
-    - H4 is holy grail for day trader 
+`Note` : Trade with the trend 
+- trade when you can find direction bias clearly
+- no trade for ranging market
 
-    2. Identify 2 levels
-        1. Uptrend = Latest higher high and higher low
-        `Note` : we expect new High from price breaking above lastest higher high
-        `Note` : we monitor price breaking below latest higher low because it is possibly sentiment change in the market. It doesn't mean market turnaround, it means erratic so get out of the market today
+`Note` : No matter what timeframe apply the same concept
+- structure is structure
+- H4 is holy grail for day trader 
 
-        2. Downtrend = Latest lower low and lower high
-2. Chart Patterns - identify setup
+2. Identify 2 levels
+    1. Uptrend = Latest higher high and higher low
+    `Note` : we expect new High from price breaking above lastest higher high
+    `Note` : we monitor price breaking below latest higher low because it is possibly sentiment change in the market. It doesn't mean market turnaround, it means erratic so get out of the market today
+
+    2. Downtrend = Latest lower low and lower high
+
+### 2. Chart Patterns {chart-pattern}
+`identify setup` 
+
     1. DownTrend
         1. Simple break and retest
             - spot previous low broken
@@ -144,7 +165,7 @@
 
 ### Key Level
 1. simple retest level
-    - ![key-level-restest](key-level-restest.png)
+    - ![key-level-retest](key-level-retest.png)
         - simple break and retest - recent level is somehow the most important as we are day trader
 2. cheeseman
     - ![key-level-cheeseman](key-level-cheeseman.png)
@@ -170,10 +191,87 @@ Don't rush
 Don't skip
 Don't try to make money
 Follow rules and processes
+First, focus on high probable trade not the smart entry. Then, sharpen your entries and exits
 
-### Multiple timeframe confluence 
+### Execution with Multiple Timeframe Confluence 
 `4H-1H-15M/30M`
-xx
+
+1. Ex. trade with the major trend (4H)
+    1. `4H` @ Structure must be in line with direction you plan to trade
+    - ![multitimeframe-ex1-1](multitimeframe-ex1-1.png)
+    2. `4H` @ Price must break key level and close below 
+    3. `4H` @ Price should come back to retest but not break above --> `exhaustion`
+    - ![multitimeframe-ex1-2_3](multitimeframe-ex1-2_3.png) 
+    4. `15M` @ redraw micro (intraday) structure 
+    - ![multitimeframe-ex1-4-1](multitimeframe-ex1-4-1.png) 
+        - `Tip`: we repeat steps again in micro timeframe
+    - ![multitimeframe-ex1-4-2](multitimeframe-ex1-4-2.png) 
+    5. `15M` @ find evidence to spot the resuming of major trend --> `push`
+        1. depletion ex. wicks
+        2. pattern ex. double top
+        - ![multitimeframe-ex1-5](multitimeframe-ex1-5.png) 
+    6. `15M` @ entry
+    - ![multitimeframe-ex1-6](multitimeframe-ex1-6.png) 
+2. Ex. another simple break and retest
+    - ![multitimeframe-ex2-1](multitimeframe-ex2-1.png) 
+    - ![multitimeframe-ex2-2](multitimeframe-ex2-2.png) 
+    - ![multitimeframe-ex2-3](multitimeframe-ex2-3.png) 
+3. Ex. awkward situation (price go nowhere) and `BOBBI Pattern`
+    - ![multitimeframe-ex3-1](multitimeframe-ex3-1.png) 
+    - ![multitimeframe-ex3-2](multitimeframe-ex3-2.png) 
+        - `Note`: if last lower high was broken in the downtrend, then price is highly possible to revert in uptrend 
+        - `Tip`: even it is bullish sign, but it also could be `BOBBI patter` so wait 1 more **4H candle** to see if it's gonna break back in or rally bullishly
+    - ![multitimeframe-ex3-3](multitimeframe-ex3-3.png) 
+    - ![multitimeframe-ex3-4](multitimeframe-ex3-4.png) 
+4. Ex. something we don't really expect but it's real
+    - ![multitimeframe-ex4-1](multitimeframe-ex4-1.png) 
+        - instead of break, it's leaving huge wick. Thus, **wait** patiently 
+    - ![multitimeframe-ex4-1](multitimeframe-ex4-2.png) 
+    - ![multitimeframe-ex4-1](multitimeframe-ex4-3.png) 
+
+### Wrap-up
+1. Basic rule
+    1. 4H - direction bias
+    2. 1H - identify wick rejection (optional)
+    3. 15M - entries
+    - always wait for candle close
+    - **stick to rules and processes**
+    - buy in bull, sell with bear
+2. Entries
+    - every trade/setup must meet your criteria
+    - every trade/setup must be journalized  
+    - always apply multiple `confluences`
+    - buy in buy bias, sell when sell bias
+    - candle formation (`behaviour`) is the key for entries
+3. Target
+    1. 1:2 - 1:3 
+    - stay with the today (`present`); don't be possessed by data on the left (history); Never to the left
+    - `High and low` are the key to consider so make sure we have enough range for price to hit 1:2-1:3
+    - don't forget to seal profit by 50% closing `BE1:1` 
+    - `don't rush and greedy`; slow & steady
+4. Stop Loss
+    1. place above/below key level or structure high/low
+    2. risk 1% always
+    3. take no more 2 trades a day
+    - don't worry about the `SL size` as long as it serves 1:2-1:3 even bigger SL size normally causes smaller TP. Focus on priciple and take as large SL as it's supposed to
+5. Time
+    1. London (LDN) Open for 2hr --> `2-4pm` GMT+7 
+    2. New York (NYC) Open for 2hr --> `7-9pm` GMT+7
+    3. Look chart every 4hr --> `2am, 6am, 10am, 2pm, 6pm` GMT+7
+    - don't look at your chart after London Close --> `11pm` GMT+7
+6. Pairs
+    1. `GBPUSD`, `EURUSD`, `USDCHF`, `EURJPY`
+7. No Trade
+    - don't recognize pattern
+    - don't fit criteria
+    - humming or harring (so unsure)
+8. Important
+    - digest information your own way --> `find the way to process`
+    - stay consistent
+    - stay `disciplined` --> daily basis regardless of the result
+    - rinse and repeat --> `don't quit` and keep ongoing
+    - practice will not make perfect --> `don't be perfect` trader but be better you
+    - keep it stupid simple
 
 ---
 # Master Class 1.0 {#master-class-1} 
@@ -327,8 +425,8 @@ xx
 
 
 --- 
-# Master Class 2.0 {#master-class-2}
-`Multiple timeframe mastery`
+# Master Class 2.0 {#master-class-2-1}
+`Part 1: Multiple timeframe mastery`
 
 1. 3 structures
     1. up
@@ -356,12 +454,17 @@ xx
     4. why it works 
     5. Why sells 
 
-4. Entry
-    1. 4H Wick Rejection
-    2. Breakout 50% retracement
-    3. Over-extended continuation
-    4. Bottom/Double Top continuation
-    5. Fail to break above/below
+---
+# Master Class 2.0 {#master-class-2-2}
+`Part 2: Entries mastery`
+
+### Entry Pattern
+1. 4H Wick Rejection
+2. Breakout 50% retracement
+3. Over-extended continuation
+4. Bottom/Double Top continuation
+5. Fail to break above/below
+
 --- 
 # Master Class 3.0 {#master-class-3}
 `Single timeframe mastery`
@@ -369,6 +472,18 @@ xx
 --- 
 # Master Class 4.0 {#master-class-4}
 `Unrivalled 1M scalping`
+
+### Theory and What to expect
+1. `market always trends!` so go with market flow
+2. tons of oppties every day
+3. we can take advantage of `trends structure` then we can achieve good RR
+
+
+### Data breakdown and key elements
+
+### Patterns
+
+### Entry and Trade 
 
 --- 
 # Practice and Sample {#practice-and-sample}
@@ -413,8 +528,223 @@ xx
 29. Stop dealing with entry and secure your capital by focus on breakeven trade along the process
 30. Market behaviour = presenting behaviour not the pass so when structure changes, anticipation and stop loss must be revised accordingly. When behaviour changes. Connect the dot to see clearer picture (clear level). Finally, it depends on my capital investing. The more capital, the wider SL I can endure 
 
+---
+# Challenge {#challenge}
+`Practice —> Challenge —> Optimize —> Repeat`
+
+
+### Task
+- 100-trade challenges on major pairs + gold
+- 200-trade challenges on major pairs + gold
+
+Practice via 
+- 1 month
+- 3 months
+- 6 months
+- 12 months (1y)
+- 24 months (2y)
+- 48 months (4y) 
+- 60 months (5y)
+- 120 months (10y)
+
+---
+# Daily Question & Ask {#daily-qa}
+1. what is `Direction`? 
+2. Shall we `Sell or Buy`?
+3. Is this `Push or pullback`?
+4. What `pattern` shall we apply?
+5. What `behavior or evidence` shall we need in confluence?
+6. Do we wait for `momentum or rejection`?
+7. Do we have enough room for `BE and TP`?
+
+> I wanna see clear trend on H4 with the formation HH/HL or LH/LL to see if buyer or seller is in control. With the being said, I will mark out the recent high/low with the complete break and retest anticipation, and laddering levels from price distribution or level 2 data. Then, 2 things to confirm directional bias are behaviour at price levels in H1   and significant rejections in M15 
+
+
+---
+# Grocery of Key Ideas {#grocery}
+
+### Trading Process {#trade-process}
+1. Use `w1` for pivoting
+2. Use `d1` to identify movement
+3. Use `h4` to identify key level and structure high/low and direction
+4. Use `h1` 
+    - to monitor behaviour of price approaching the key level 
+    - to monitor price approaching the key level 
+5. Use `m30` and `m15` to monitor 1st sign of rejection
+6. Enter with `momentum`, `valid SL, BE and RRR`
+    1. Momentum
+        1. Price must violate structure completely 
+        2. Momentum shift in higher timeframe = break and retest in lower timeframe
+    2. Valid SL 
+        1. Must not be in the area that pullback might take place
+        2. Must be hold/against the significant level 
+        3. It must be able to make BE
+    3. Valid BE
+        1. Size of BE zone = Size of SL zone
+        2. Once price violate BE, shift SL in to make a trade breakeven
+    4. Valid RRR
+        1. Range to next zone > 1:2RR
+        2. 1:3 RR
+        3. 5SL —> 15TP or 10SL —> 30TP
+7. Document and retrospect 
+
+### Trading Perceptive Intuition {#trade-perceptive-intuition}
+1. Momentum shift in higher timeframe = Break and retest in lower timeframe
+2. Changing level, trendline, HH, LL = `Trend`
+3. Wick rejection = `Direction Bias`
+4. Pattern = `Opportunity`
+5. SL zone = Capital Shield or `Protective Zone`
+    1. Price must not be greater than `50%` of the protective zone
+    2. Use `Buy/Sell Stop` to wait for price to get back in the zone
+6. Consolidation = `No Decision`
+7. Best plan = Simple Stupid plan that is highly disciplined
+8. News = Major `Market Correction`; it's not really manipulation but adjustment at the moment
+9. Sunday & Monday = Marjor `Market Correction`; Sunday correction impact so be aware. 
+
+### Indicator {#trade-indicator}
+1. SMA200 - direction
+2. `EMA50` - mean value. In forex, **price always approaches the mean value** which is more comfortable 
+3. EMA14 - immediate movement
+
+
+### Trading Pattern {#trade-pattern}
+1. Simple trending 
+    1. Direction
+        1. Uptrend: buy at HL: if it doesn’t break h4 low, wait for retest and rejection before buy
+        2. Downtrend: sell at LH: if it doesn’t break h4 high, wait for retest and rejection before sell
+    2. Formation
+        1. pullback and momentum push = HL/HH or LH/LL
+        2. Pullback and failed push (double top/bottom) = HL/lower High or LH/higher Low
+2. Break structure, wait for retest
+3. Break trendline, wait for retest 
+4. Double top/bottom, wait for momentum or broken structure  
+5. Missed Double top/bottom, wait for momentum or broken structure
+6. V-shape by engulf first, wait for coming pinbar afterwards
+7. Consolidation: wait for break structure and retest 
+8. Double top/Trending market + Breakout, wait for  break back in + retest: Sell stop
+9. Break-out-Break-backin on H4 only
+10. Double top/bottom on H1/H4 only
+
+### Chart Pattern {#pattern-chart}
+`Chart pattern forms strategy`
+
+Some text with [a link][1] and
+another [link](#bootcamp).
+
+> see bootcamp/chart pattern for more detail
+1. Simple break and retest - `continuation`: break retest 1st level
+2. Deep pullback - `continuation`: break and retest 2nd level
+3. Cheeseman - `continuation`: not break and retest 2nd level
+4. Reversal - `reversal`: not break but break 2nd level reversely  
+
+### Entry Pattern {#pattern-entry}
+1. 4H Wick Rejection
+2. Breakout 50% retracement
+3. Over-extended continuation
+4. Bottom/Double Top continuation
+5. Fail to break above/below
+
+### Rule {#trade-rule}
+1. Trend
+    - always analyse the `current only`
+    - only `clear direction` to be analyzed
+2. Entry
+    - only Pattern must be discovered
+    - enter only on a pullback
+    - enter at key level
+    - Only with Direction bias
+    - Only with Momentum
+    - Only valude 1:1`BE`
+    - Only valid 1:2-1:3`RR` 
+        - 1:2 if SL is wide 
+    - `Wait - Behavior Signal`
+        - Wait price come into `SL zone` before triggering a trade with `STOP Order`
+        
+        > For `Stop Order`, try to make the entry **at the centre** as much as possible. Manipulate it in the range we bet. Ex. We know anticipating SL and current price (close). Then, stop order entry = current price (close) - (SL-current price (close)). The same range to make it at the centre
+
+        - Wait at least `1 x h4/h1 close` at key level before proceeding = not to be the 1st one
+        - Wait at least `2 x h1 rejection` at key level to confirm failing to break = not to be the 1st one
+        - Enter only with `2 wick rejections` regardless of other patterns
+    - `Wait - Structure`
+        - Downtrend = LH+LL 
+        - Uptrend = HH+HL
+        - Downtrend-Double Top (DDT) = cheeseman
+            - DB = reversal but we don’t take reversal 
+        - Uptrend-Double Bottom (DDB) = cheeseman
+            - DT = reversal but we don’t take reversal
+3. SL
+    - Always above key level
+4. Take Profit
+    - Always enough room to take profit and momentum 
+5. BE
+    - always partially close 50% at major level 
+    - let another 50% left for letting it all run and hit TP
+6. Mindset
+    - Keep it Simple always
+    - Never anticipate for a reversal (Never be the 1st to get in; let market prove itself)
+    - Never forecast but react with processes
+7. No trade 
+8. Time
+    - Time range= 5-8p-10p
+    - Focus on 30min before NY Open = 7.30p
+9. NEWS and Events
+    - NEWS, manage position if I am in; otherwise, decide wisely if news can benefit the entry
+
+
+### Key Level {#trade-key-level}
+`No such perfect line` 
+We need Only `Structure` since it's dynamic and responsive to current market sentiment
+
+1. Structure Highs 
+2. Structure Lows
+3. `Strong Level`
+    - `V-shape`: it signifies big orders there. Then, wait for double top/bottom at that level
+    - `Bull/Bear trap`
+    - `BOBBI`
+    - `SL Hunt`
+4. Broken trendline
+5. `1W` Pivot
+
+### Reading Value {#read-value}
+1. EURUSD = `4` floating points ex. 1.22096 - 1.22008 = 0.`0008`8 = 8.8 pips
+2. USDJPY = `2` floating points ex. 104.614 - 104.462 = 0.`15`2 = 15.2 pips
+3. Gold = `-2` floating points ex. 1284.12 - 1282.12 = 2`.`00 = 200 pips 
+
+### Reading Chart {#read-chart}
+1. Always look from right to left
+2. When new structure was formed in H4, we disregard the past. Especially, when we anticipate the double top/bottom, it won’t be validated anymore. Thus, when new structure was formed, we won’t expect the trend resuming but new reversal trending. However, if we cannot spot the new structure, we can still anticipate the resuming of the current trend.
+3. Find bias in H4, then anticipate pattern and behaviour from H1 and M15 respectively.
+
+### Processing H4-H1-M15 {#h4-h1-m15}
+1. Key takeaway
+    1. It is more aggressive ( faster entrance )
+    2. It closes BE more often
+2. Pattern
+    1. Pullback 50% then continue
+    2. Breakout, break back-in, retest, then continue
+3. Tips
+    1. Confirm by 1 x H4 close 
+
+### Processing H4-H1-M30 {#h4-h1-m30}
+1. Key takeaway
+2. Pattern
+    1. Break trend line and form double top/bottom
+    2. Break structure and retest
+    3. Break structure, fail to retest, then form double top/bottom
+    4. Fail to break structure, form double top/bottom
+3. Tips
 
 
 
+Markdown converts text to HTML.
 
+*[HTML]: HyperText Markup Language
+*[SL]: Stop Loss
+*[TP]: Take Profit
+*[RR]: Risk to Reward Ratio
+*[HH]: Higher High
+*[HL]: Higher Low
+*[LH]: Lower High
+*[LL]: Lower Low
 
+[1]: www.google.com "Google"
