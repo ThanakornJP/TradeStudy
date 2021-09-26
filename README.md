@@ -626,39 +626,3 @@ We need Only `Structure` since it's dynamic and responsive to current market sen
     3. Break structure, fail to retest, then form double top/bottom
     4. Fail to break structure, form double top/bottom
 3. Tips
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---- 
