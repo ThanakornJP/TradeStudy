@@ -8,11 +8,10 @@
 3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-20-part-2)
 4. [Master Class 3.0 `Single timeframe mastery`](#master-class-30)
 5. [Master Class 4.0 `Scalping mastery`](#master-class-40)
-6. [Practice and Sample](#practice-and-sample)
-7. [Tip and Note](#tip-and-note)
-8. [Challenge](#challenge)
-9. [Daily Question & Ask](#daily-qa)
-10. [Keynote](#keynote)
+6. [Tips](#tips)
+7. [Challenge](#challenge)
+8. [Daily Questions to Ask](#daily-questions)
+9. [Keynote](#keynote)
     - [Trading Process](#trading-process)
     - [Trading Perception](#trading-perception)
     - [Trading Rule](#trading-rule)
@@ -169,7 +168,287 @@ It simply goes thru 3 step
             - 5th evidence, we see price retests the **recent high**
             - 5 confluences confirm reversal 
 
+---
+[Back to Agenda](#agenda)
+# Master Class 1.0
+`Keep it simple`
 
+> Only Analyze clear and current Trend, and Enter with proven Momentum with valid Risk management
+
+1. Market Phase
+2. Candlestick and Indicator
+    1. Candlestick
+    2. Indicator
+    - SMA200 - direction
+    - EMA50 - mean value (forex comforts mean value)
+    - EMA14 - immediate movement
+
+3. MST KISS - Pattern and Process 
+    3.1 Price level
+        - Structure High/Low
+        - Recent level
+        - Retesting level
+        - Breaking out level
+        - Strong level = v-shape bcoz big order is there
+
+4. Break and Retest 
+5. Trading Rules
+    1. **2 Repairs max**.
+    2. News = mostly be market correction = avoid or manage/exit position 
+    3. Sunday/Monday = mostly be market correction = manage position
+    4. Trade time: 5-10p (especially 730p)
+    5. **Manage position**
+        1. When price approach BE, close 50% and shift SL for free trade
+        2. Stop order: to wait for price to get back in the zone 
+            1. Entry with price in the middle of SL zone - manipulate range we bet
+            2. Stop order entry = close +/- absolute(SL - close)
+    6. Criteria
+        - Keep it Simple Always
+        - Enter only with Momentum - wick rejection, level down 
+        - Pattern must be recognised
+        - Buy when
+            - Trending up
+            - Reversing up
+            - **HL** ( doesn’t have to be perfect )
+                - If price is in buy market + doesn’t break h4 structure lows, wait for retest
+                - anticipate rejection as potential signal 
+                - Enter with valid SL and RRR
+        - Sell when
+            - Trending down
+            - Reversing down  
+            - **LH**
+                - If pricing in sell market + doesn’t break h4 structure lows, wait for retest
+                - anticipate rejection as potential signal 
+                - Enter with valid SL and RRR
+        - Range to next zone must be greater than 1:2 to accommodate 1:2RR
+        - SL area must not be in the area where potential pullback might take place 
+        - Wait until price come into SL area before triggering a trade 
+        - Wait at least 1 x h4 (or 1 x h1) close at key level to proceed
+        - Wait at least 2 x h1 rejection at key level to confirm price has attempted to break but failed 
+        - No trade if you can’t recognise pattern or things don’t fit our criteria 
+        - Trading time = 10-2 o’clock GMT (4 hr a day) ~ 5-8p TH time
+        - Focus = 30hr before NY open 
+        - Pull away from chart = 4 o’clock GMT ( London close )
+
+
+6. Trading Plan 
+`Clear Trend + Proven Momentum + Risk Management`
+
+    1.  Clear and Current **Trend**  — H4
+        - Trending/Cont. Pattern (Pattern + Direction = opportunity)
+            - HH+HL / LL+LH with break-and-retest (previous level or trend line)
+            - HH+HL / LL+LH with break and 50% pullback
+            - HH+HL (uptrend) with break-and-fail-to-retest-but-form-Double Bottom (accumulation) —> no new structure just drop
+            - LL+LH (downtrend) with break-and-fail-to-retest-but-form-Double Top (distribution) —> no new structure just drop
+            - (Ranging) Break-out-Break-Back-in, retest, then continue 
+                - Consolidation = no decision
+            - Reversal sign: Never anticipate a reversal !
+                - Break trend line + form new structure + retest with success pattern
+                    - (Downtrend to uptrend): HH+HL —> double bottom
+                    - (Uptrend to downtrend): LH+LH —> double top
+                - Break trend line + form new structure + retest with failed pattern
+                    - (Downtrend to uptrend): HH+HL —> HL
+                    - (Uptrend to downtrend): LH+LH —> LH
+        - Pattern
+            1. Simple trending 
+                1. Direction
+                    1. Uptrend: buy at HL: if it doesn’t break h4 low, wait for retest and rejection before buy
+                    2. Downtrend: sell at LH: if it doesn’t break h4 high, wait for retest and rejection before sell
+                2. Formation
+                    1. pullback and momentum push = HL/HH or LH/LL
+                    2. Pullback and failed push (double top/bottom) = HL/lower High or LH/higher Low
+            2. Break structure, wait for retest
+            3. Break trendline, wait for retest 
+            4. Double top/bottom, wait for momentum or broken structure  
+            5. Missed Double top/bottom, wait for momentum or broken structure
+            6. V-shape by engulf first, then wait for retest with coming pinbar or double top/bottom
+            7. Consolidation: wait for break structure and retest 
+            8. Double top/Trending market + Breakout, wait for  break back in + retest: Sell stop
+            9. Break-out-Break-backin on H4 only
+            10. Double top/bottom on H1/H4 only
+        - Current
+            - Right to left charting. 
+            - When new structure is found, neglect the past and never expect trend resuming because it was reversed
+                - Otherwise, anticipate cont. pattern for trend resuming 
+        - Confirmation of failing to break
+            - (Conservative) H4 close >= 1 candle at key level
+            - (Intraday-like) H1 close >= 2 candles at key level
+        - Analysis (Question)
+            - What is direction bias?
+            - Would I buy or sell?
+            - Is this push or pullback phase?
+
+    2.  Proven **Momentum** — H1/M30 + M15/M5
+        - Scenario
+            - Early(aggressive): 2 x wick rejections at major price level
+                - Wick rejection = directional bias
+            - Proven(conservative): Price must violate structure completely 
+                - momentum shift (H1-higher timeframe) = break and retest (M15-lower timeframe)
+        - Enter only on pullback
+        - Wait for retest 
+            - Never be the 1st to get in
+            - Let it prove 
+
+    3.  Valid **Risk** —  enough room
+        - possible BE — 1R 
+            - BE zone’s size = SL zone’s size
+        - Possible TP — 3R
+            - Range to next zone/level > 2R
+            - No let profit run but close all at 3R
+        - Hedging SL — 1R
+            - SL = Protective zone = Capital shield 
+                - Price must be in the middle of SL zone
+                - SL mustn’t be in the area that pullback might take place
+                - SL must cover significant level (prevent whipsaw and trap)
+            - Valid SL can cause BE 
+            - SL amount 
+                - Agressive: 5pip 
+                - Conservative: 10pip
+
+>  H4 —> H1 —> M15
+>  H4 (Bias), H1/M15 (Pattern + Behaviour)
+
+7. Step 
+    1. Pick pivoting level on W1 
+    2. Notify movement on D1
+    3. Analyse trend — H4
+    4. Analyse price structure on H4
+    5. Analyse behaviour when price approaching key levels — H1/M30
+    6. Anticipate at — M15
+        1. 1st rejection at key level to spot momentum 
+        2. 2nd rejection at key level to manage position with rules and conditions
+    7. Journalize 
+
+---
+[Back to Agenda](#agenda)
+# Master Class 2.0 Part 1
+`Part 1: Multiple timeframe mastery`
+
+1. 3 structures
+    1. up
+    2. down
+    3. sideway
+2. Thought Process
+    1. Process
+    2. Pattern
+3. Momentum Shift Trading
+    1. identify Momentum shift
+        1. 4H wick rejection continuation
+        2. Breakout 50% retracement
+        3. Over-extended continuation
+        4. Double Top/Bottom continuation
+        5. Fail to break above/below
+    2. Pattern that form 
+        1. pattern
+        2. different form
+        3. clean pattern
+        4. messy pattern
+        5. How many pattern do I need?
+    3. Reaction
+        1. Fast reacting
+        2. Slow reacting 
+    4. why it works 
+    5. Why sells 
+---
+[Back to Agenda](#agenda)
+# Master Class 2.0 Part 2
+`Part 2: Entries mastery`
+
+### Entry Pattern
+1. 4H Wick Rejection
+2. Breakout 50% retracement
+3. Over-extended continuation
+4. Bottom/Double Top continuation
+5. Fail to break above/below
+---
+[Back to Agenda](#agenda)
+# Master Class 3.0 
+`Single timeframe mastery`
+
+---
+[Back to Agenda](#agenda)
+# Master Class 4.0
+`Unrivalled 1M scalping`
+
+### Theory and What to expect
+1. `market always trends!` so go with market flow
+2. tons of oppties every day
+3. we can take advantage of `trends structure` then we can achieve good RR
+
+---
+[Back to Agenda](#agenda)
+# Tips {#tips}
+1. During push phase, if it exhausts to somewhere in between, it is still in the game. But, if it pullbacks to the origin of previous phase, reassess the structure again coz it is liquidity correction where structure may be probably changed.
+2. For retesting point, we disregard long wick’s area but accounting for small wick area.
+3. For clear structure both ranging and trending, we can draw a trend line or box to do buy or sell respecting touch points 
+4. Don’t enter with engulfing bcoz SL is too big
+5. Try to stay with the current moment as much as possible; don’t collect information from the past at the very beginning.
+6. Strong candle <> news inflicted candle
+7. The lower timeframe, the more pure of the behavioural analysis which is no pattern involved 
+8. Cheese man = double top/bottom of lower high/higher low 
+9. FOMO fixed by waiting for retest aligning with H4 bias
+10. Direction(h4) + Evidence(h1) + confirmation(h1) + behavioural (h1,m30,m15) + enough range (m15) ALWAYS
+11. Price must retest the strong level before driving further
+12. 10-15pip SL only
+13. Close Breakeven as quickly as possible if things turn against 
+    1. Move SL to BE
+14. Trade 10AM - 3PM
+15. Fix h4 level-of-analysis on lower timeframe 
+16. H4 H1 m15
+17. H4 - look for direction
+18. H1/M30 - look for sign of rejection ex. Wick rejection 
+19. Wick rejection not engulfing
+    1. In case of engulfing found, there is coming wick rejection in form of pinbar. 
+20. 5% a day , 15% a month
+21. Preserve capital FIRST, proceed with procedure and process LATER
+22. Momentum is the wick rejection in M30
+23. It doesn’t matter h1, m30 or o15 because we expect the rejection at level not specific formation. So, enter as long as you can find SL area.
+24. Take into account news and time
+25. No perfect retest, observe their intention (momentum shift)
+    1. Trade breakout (momentum shift) at NY Open  not London Open
+26. Possible event
+    1. Come back to retest
+    2. Break retest level
+    3. Fail to retest 
+27. Secret
+    1. Price statistically come back to retest major zones to form double top/bottom for liquidity 
+28. Wider SL, more room to breath, longer TP to be hit.
+29. Stop dealing with entry and secure your capital by focus on breakeven trade along the process
+30. Market behaviour = presenting behaviour not the pass so when structure changes, anticipation and stop loss must be revised accordingly. When behaviour changes. Connect the dot to see clearer picture (clear level). Finally, it depends on my capital investing. The more capital, the wider SL I can endure
+
+---
+[Back to Agenda](#agenda)
+# Challenge {#challenge}
+`Practice —> Challenge —> Optimize —> Repeat`
+
+
+### Task
+- 100-trade challenges on major pairs + gold
+- 200-trade challenges on major pairs + gold
+
+Practice via 
+- 1 month
+- 3 months
+- 6 months
+- 12 months (1y)
+- 24 months (2y)
+- 48 months (4y) 
+- 60 months (5y)
+- 120 months (10y)
+
+
+---
+[Back to Agenda](#agenda)
+# Daily Questions
+1. what is `Direction`? 
+2. Shall we `Sell or Buy`?
+3. Is this `Push or pullback`?
+4. What `pattern` shall we apply?
+5. What `behavior or evidence` shall we need in confluence?
+6. Do we wait for `momentum or rejection`?
+7. Do we have enough room for `BE and TP`?
+
+> I wanna see clear trend on H4 with the formation HH/HL or LH/LL to see if buyer or seller is in control. With the being said, I will mark out the recent high/low with the complete break and retest anticipation, and laddering levels from price distribution or level 2 data. Then, 2 things to confirm directional bias are behaviour at price levels in H1   and significant rejections in M15 
 
 ---
 [Back to Agenda](#agenda)
