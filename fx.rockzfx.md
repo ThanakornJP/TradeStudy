@@ -190,7 +190,7 @@ Don't rush
 Don't skip
 Don't try to make money
 Follow rules and processes
-First, focus on high probable trade not the smart entry. Then, sharpen your entries and exits
+> First, focus on high probable trade not the smart entry. Then, sharpen your entries and exits
 
 ### Execution with Multiple Timeframe Confluence 
 `4H-1H-15M/30M`
@@ -733,17 +733,3 @@ We need Only `Structure` since it's dynamic and responsive to current market sen
     4. Fail to break structure, form double top/bottom
 3. Tips
 
-
-
-Markdown converts text to HTML.
-
-*[HTML]: HyperText Markup Language
-*[SL]: Stop Loss
-*[TP]: Take Profit
-*[RR]: Risk to Reward Ratio
-*[HH]: Higher High
-*[HL]: Higher Low
-*[LH]: Lower High
-*[LL]: Lower Low
-
-[1]: www.google.com "Google"
