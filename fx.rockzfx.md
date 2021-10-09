@@ -3,15 +3,28 @@
 ---
 # Agenda
 0. [Master Class Bootcamp `Game of Probability`](#master-class-bootcamp)
+    - [Market Structure](#market-structure)
+    - [Market Pattern](#market-pattern)
+    - [Market Behaviour](#market-behaviour)
 1. [Master Class 1.0 `Keep it simple`](#master-class-10)
 2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-20-part-1)
+    - [Strategy](#strategy)
+    - [Though Process](#thought-process)
+    - [Momentum Shift Trading](#momentum-shift-trading)
+    - [Entries](#entries)
 3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-20-part-2)
+    - [4H Wick Rejection](#4h-wick-rejection)
+    - [Breakout 50% Retracement](#breakout-50-percent-retracement)
+    - [Over-extended continuation](#over-extended-continuation)
+    - [Double Top/Bottom continuation](#double-top-or-bottom-continuation)
+    - [Fail to break above/below](#fail-to-break-above-or-below)
 4. [Master Class 3.0 `Single timeframe mastery`](#master-class-30)
 5. [Master Class 4.0 `Scalping mastery`](#master-class-40)
-6. [Tips](#tips)
-7. [Challenge](#challenge)
-8. [Daily Questions to Ask](#daily-questions)
-9. [Keynote](#keynote)
+6. [Pattern and Process Mastermind](#pattern-and-process-mastermind)
+7. [Tips](#tips)
+8. [Challenge](#challenge)
+9. [Daily Questions to Ask](#daily-questions)
+10. [Keynote](#keynote)
     - [Trading Process](#trading-process)
     - [Trading Perception](#trading-perception)
     - [Trading Rule](#trading-rule)
@@ -324,38 +337,47 @@ It simply goes thru 3 step
 # Master Class 2.0 Part 1
 `Part 1: Multiple timeframe mastery`
 
-1. 3 structures
-    1. up
-    2. down
-    3. sideway
-2. Thought Process
-    1. Process
-    2. Pattern
-3. Momentum Shift Trading
-    1. identify Momentum shift
-        1. 4H wick rejection continuation
-        2. Breakout 50% retracement
-        3. Over-extended continuation
-        4. Double Top/Bottom continuation
-        5. Fail to break above/below
-    2. Pattern that form 
-        1. pattern
-        2. different form
-        3. clean pattern
-        4. messy pattern
-        5. How many pattern do I need?
-    3. Reaction
-        1. Fast reacting
-        2. Slow reacting 
-    4. why it works 
-    5. Why sells 
+**Quick Recap**
+[Pattern Review](#pattern-and-process-mastermind)
+
+### Strategy
+1. structure low/high have been broken 
+    - if structure low/high havn't, then it's consolidating or `double top/bottom`
+2. buy/sell after an exhaustion phase
+3. single `4H` candle `close with a wick` bcoz it creates `level` for you
+4. Momentum shift creating HL/LH
+
+
+### Thought Process
+1. Process
+2. Pattern
+    
+
+### Momentum Shift Trading
+1. identify Momentum shift
+    1. 4H wick rejection continuation
+    2. Breakout 50% retracement
+    3. Over-extended continuation
+    4. Double Top/Bottom continuation
+    5. Fail to break above/below
+2. Pattern that form 
+    1. pattern
+    2. different form
+    3. clean pattern
+    4. messy pattern
+    5. How many pattern do I need?
+3. Reaction
+    1. Fast reacting
+    2. Slow reacting 
+4. why it works 
+5. Why sells 
 ---
 [Back to Agenda](#agenda)
 # Master Class 2.0 Part 2
 `Part 2: Entries mastery`
 
-### Entry Pattern
-1. 4H Wick Rejection
+
+### 4H Wick Rejection
 
 ```
 1. find wick rejection followed by momentum shift bar
@@ -367,10 +389,16 @@ ex.1
 ex.2 
 ![entry-4h-wick-reject-ex1](entry-4h-wick-reject-ex1.png)
 
-2. Breakout 50% retracement
-3. Over-extended continuation
-4. Bottom/Double Top continuation
-5. Fail to break above/below
+### Breakout 50 percent retracement
+`breakout with 50% retracement`
+
+### Over-extended continuation
+
+### Double Top or Bottom continuation
+
+### Fail to break above or below
+
+
 ---
 [Back to Agenda](#agenda)
 # Master Class 3.0 
@@ -385,6 +413,40 @@ ex.2
 1. `market always trends!` so go with market flow
 2. tons of oppties every day
 3. we can take advantage of `trends structure` then we can achieve good RR
+
+---
+[Back to Agenda](#agenda)
+# Pattern and Process Mastermind
+
+**Structure**
+- practice by reading from time to time and decompose what structure is being formed without entry consideration. Like, watch movie and realize sequence of stories
+- `Expectation`: Direction bias, level created, bahaviour including decision of sell or buy
+
+Example 1 
+![Ex1](structure-mastermind-ex1.png)
+
+**Patterns**
+- practice by reading from time to time and spot what pattern is being formed 
+without entry consideration. Like, watch movie and spot easter egg.
+- `Expectation`: Pattern mapping
+
+
+Example 1: Chesseman, BOBBI, BNR
+![Ex1](pattern-mastermind-ex1.png)
+![Ex1](pattern-mastermind-ex1-2.png)
+
+Example 2:
+![Ex2](pattern-mastermind-ex2.png)
+
+Example 3:
+![Ex3](pattern-mastermind-ex3.png)
+
+**Plan**
+
+
+### Craft plan
+
+### Describe Behaviour
 
 ---
 [Back to Agenda](#agenda)
