@@ -181,6 +181,10 @@ It simply goes thru 3 step
             - 5th evidence, we see price retests the **recent high**
             - 5 confluences confirm reversal 
 
+### Time and Place
+1. trading time = london open 7-9a UK time, new york open 12a-2p UK time
+2. trading pair = GBPUSD, EURUSD, USDCHF, EURJPY
+
 ---
 [Back to Agenda](#agenda)
 # Master Class 1.0
