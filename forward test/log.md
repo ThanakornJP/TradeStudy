@@ -60,3 +60,19 @@ New York open 8a = 7p BKK
 - 3p, we miss the entry respecting BNR model both EURUSD and GBPUSD since M15 shows reversal for early entries
 ![EURUSD](EURUSD 2564-10-15 at 14.49.52.png) 
 ![GBPUSD](GBPUSD 2564-10-15 at 14.52.41.png)
+
+
+### 21-OCT-21
+![Dashboard](21-OCT.png)
+`Thought` 
+- GBPUSD, seems breaking and retesting structure high
+- EURUSD, it's about to break
+- USDCHF, seems like breaking the range; anticipate retest
+
+![Dashboard](21-OCT.closing.png)
+- EURUSD, after BNR, it shows wick rejection at its high so anticipate reversal at breaking structure low. At M15, it's ranging so let's see who controls the market tomorrow    
+- GBPUSD, it seems hesitation to go bullish so it may be the sign of reversal
+
+`Note` 
+Candlestick reading = 5-6a (mt4) = 8-9 (bkk)
+
