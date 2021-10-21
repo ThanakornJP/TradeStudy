@@ -57,3 +57,6 @@ New York open 8a = 7p BKK
 - before 8a, dollar rise is rejected, so retest is highly probable today around before LDN open
 ![EURUSD-DXY-H4](EURUSD-DXY-H4 2564-10-15 at 07.51.58.png) 
 ![GBPUSD-DXY-H4](GBPUSD-DXY-H4 2564-10-15 at 07.52.15.png)
+- 3p, we miss the entry respecting BNR model both EURUSD and GBPUSD since M15 shows reversal for early entries
+![EURUSD](EURUSD 2564-10-15 at 14.49.52.png) 
+![GBPUSD](GBPUSD 2564-10-15 at 14.52.41.png)

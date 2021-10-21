@@ -17,8 +17,6 @@
 3. disobedience to God's voice and forget His instruction
 4. ungladded heart
 
-
-
 # Cultivating Habit
 1. joy
 2. self-control
