@@ -77,7 +77,7 @@ New York open 8a = 7p BKK
 Candlestick reading = 5-6a (mt4) = 8-9 (bkk)
 
 ### 22-OCT-21
-![Dashboard](22-OCT at 10.28png.png)
+![Dashboard](22-OCT at 10.28.png)
 `Thought` 
 - EURUSD, see BNR; however, it shows wick rejection as circled not to resume its trend that probably formulates double bottom in the uptrend. Anyway, it doesn't show wick rejecting; let's wait to see the summary
 - GBPUSD, see nice wicks but its momentum quite sqeezes at the middle
