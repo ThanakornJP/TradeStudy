@@ -84,4 +84,12 @@ Candlestick reading = 5-6a (mt4) = 8-9 (bkk)
 - USDCHF, BNR with poor momentum to proceed bearish trend
 
 
-
+### 25-OCT-21
+![Dashboard](25-OCT.14.36.png)
+`Thought`
+- XAUUSD, wait to see if it can break high 1810
+- DXY, is pressing down
+- EURUSD, it seems exhaustion at high, 1.16618 
+- GBPUSD, show same rejection at its low, 1.37692
+- USDJPY, reject lower low, 113.702 but no momentum
+- USDCAD, wait to see if it can break high 1.23701
