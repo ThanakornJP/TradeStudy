@@ -94,3 +94,10 @@ Candlestick reading = 5-6a (mt4) = 8-9 (bkk)
 - GBPUSD, show same rejection at its low, 1.37692
 - USDJPY, reject lower low, 113.702 but no momentum
 - USDCAD, wait to see if it can break high 1.23701
+- USDCHF, waiting to retest 
+
+`Trade`
+![USDCHF-25-OCT](25-OCT.21.55.png)
+- USDCHF, I can't make an entry on momentum as it went too fast. Then, I anticipate LH testing previous LL at 0.91847. There, I got 2 wick rejections. From there I made my entry and put SL above the wicks. It turned suddenly against me by pulling back
+
+- 
