@@ -12,7 +12,10 @@
         "cheese": "hold and deep retest - double top/bottom",
         "rev": "reversal" 
     },
-    "records": [
+    "opportunity": [
+        {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": ""},
+    ],
+    "record": [
         {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": "", "review": ""},
     ]
 }
