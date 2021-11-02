@@ -1,5 +1,8 @@
 ######   https://jsongrid.com/json-grid
 
+`if present is starving, future is exhorted`
+`if present is pastured, future is extravegant` 
+
 {
     "target": 60,
     "dictionary": {
@@ -12,6 +15,9 @@
         "cheese": "hold and deep retest - double top/bottom",
         "rev": "reversal" 
     },
+    "watchlist":[
+        {"datetime": "2021-11-3","product":["XAUUSD","EURUSD"]}
+    ]
     "opportunity": [
         {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": ""},
     ],
