@@ -22,6 +22,6 @@
         {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": ""},
     ],
     "record": [
-        {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": "", "review": ""},
+        {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": "", "review": "God said: xxxx"},
     ]
 }
