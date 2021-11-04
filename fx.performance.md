@@ -16,12 +16,23 @@
         "rev": "reversal" 
     },
     "watchlist":[
-        {"datetime": "2021-11-3","product":["XAUUSD","EURUSD"]}
+        {"datetime": "2021-11-4","product":["XAUUSD","USDCAD"]}
     ]
     "opportunity": [
-        {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": ""},
+        {
+            "datetime": "2021-11-4", "product":"xauusd", "order":"ss",
+            "entry":1793.056, "sl":6.553, "r":2, 
+            "pattern":"dtdb", 
+            "plan": "1 wick or 2 wick arounds previous LH at 1795.668"
+        },
+        {
+            "datetime": "2021-11-4", "product":"usdcad", "order":"bs", 
+            "entry":1.24245, "sl":13.9, "r":3, 
+            "pattern":"bnr", 
+            "plan": "1 wick arounds previous HH at 1.24178"
+        },
     ],
     "record": [
-        {"datetime": "2021-11-3", "product":"xauusd", "order":"bs", "entry":120.1124, "sl":10, "r":3, "pattern":"dtdb", "plan": "", "review": "God said: xxxx"},
+        // bring opportunity down
     ]
 }
