@@ -1,0 +1,71 @@
+Date/Time,Transaction Code,Transaction Subcode,Symbol,Buy/Sell,Open/Close,Quantity,Expiration Date,Strike,Call/Put,Price,Fees,Amount,Description,Account Reference
+10/19/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+09/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+08/28/2021 4:00 AM,Money Movement,Dividend,SIG,,,0,,,,,0.00,18,***SIGNET JEWELERS LIMITED,Individual...05
+08/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+07/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+06/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+05/18/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+04/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+03/17/2021 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+02/17/2021 5:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+12/17/2020 5:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+11/17/2020 5:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+10/17/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+09/17/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+08/18/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+07/17/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+06/17/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+05/19/2020 4:00 AM,Money Movement,Credit Interest,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+04/17/2020 4:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+03/17/2020 4:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+02/29/2020 5:00 AM,Money Movement,Deposit,SIG,,,0,,,,,0.00,37,***SIGNET JEWELERS LIMITED,Individual...05
+02/19/2020 5:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+12/17/2019 5:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+11/30/2019 5:00 AM,Money Movement,Deposit,SIG,,,0,,,,,0.00,37,***SIGNET JEWELERS LIMITED,Individual...05
+11/19/2019 5:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+10/17/2019 4:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.01,INTEREST ON CREDIT BALANCE,Individual...05
+09/21/2019 4:00 AM,Receive Deliver,Assignment,SIG,,,1,09/20/2019,21,P,,0.00,0,Removal of option due to assignment,Individual...05
+09/21/2019 4:00 AM,Receive Deliver,Buy to Open,SIG,Buy,Open,100,,,,21,5.00,-2100,Buy to Open 100 SIG @ 21.00,Individual...05
+09/21/2019 3:00 AM,Receive Deliver,Expiration,SIG,,,1,09/20/2019,15,P,,0.00,0,Removal of 1 SIG 09/20/19 Put 15.00 due to expiration.,Individual...05
+09/17/2019 4:00 AM,Money Movement,Withdrawal,,,,0,,,,,0.00,-13.12,FROM 08/16 THRU 09/15 @ 8    %,Individual...05
+09/16/2019 8:35 PM,Trade,Sell to Close,LUV,Sell,Close,100,,,,55.5,0.212,5550,Sold 100 LUV @ 55.50,Individual...05
+09/14/2019 4:00 AM,Receive Deliver,Assignment,TSLA,,,1,09/13/2019,230,C,,0.00,0,Removal of option due to assignment,Individual...05
+09/14/2019 4:00 AM,Receive Deliver,Sell to Close,TSLA,Sell,Close,100,,,,230,5.492,23000,Sell to Close 100 TSLA @ 230.00,Individual...05
+09/14/2019 4:00 AM,Receive Deliver,Exercise,TSLA,,,1,09/13/2019,232.5,C,,0.00,0,Removal of option due to exercise,Individual...05
+09/14/2019 4:00 AM,Receive Deliver,Buy to Open,TSLA,Buy,Open,100,,,,232.5,5.00,-23250,Buy to Open 100 TSLA @ 232.50,Individual...05
+09/14/2019 3:00 AM,Receive Deliver,Expiration,TSLA,,,1,09/13/2019,200,P,,0.00,0,Removal of 1 TSLA 09/13/19 Put 200.00 due to expiration.,Individual...05
+09/14/2019 3:00 AM,Receive Deliver,Expiration,TSLA,,,1,09/13/2019,197.5,P,,0.00,0,Removal of 1 TSLA 09/13/19 Put 197.50 due to expiration.,Individual...05
+09/12/2019 4:00 AM,Money Movement,Deposit,LUV,,,0,,,,,0.00,-2.7,SOUTHWEST AIRLINES CO,Individual...05
+09/12/2019 4:00 AM,Money Movement,Deposit,LUV,,,0,,,,,0.00,18,SOUTHWEST AIRLINES CO,Individual...05
+09/11/2019 10:28 PM,Trade,Buy to Open,SIG,Buy,Open,1,09/20/2019,15,P,0.2,1.14,-20,Bought 1 SIG 09/20/19 Put 15.00 @ 0.20,Individual...05
+09/11/2019 10:28 PM,Trade,Sell to Open,SIG,Sell,Open,1,09/20/2019,21,P,4.15,1.152,415,Sold 1 SIG 09/20/19 Put 21.00 @ 4.15,Individual...05
+09/07/2019 8:33 PM,Money Movement,Balance Adjustment,,,,0,,,,,0.00,-0.01,Regulatory fee adjustment,Individual...05
+09/03/2019 8:34 PM,Trade,Sell to Open,TSLA,Sell,Open,1,09/13/2019,230,C,5.02,1.162,502,Sold 1 TSLA 09/13/19 Call 230.00 @ 5.02,Individual...05
+09/03/2019 8:34 PM,Trade,Sell to Open,TSLA,Sell,Open,1,09/13/2019,200,P,0.95,1.152,95,Sold 1 TSLA 09/13/19 Put 200.00 @ 0.95,Individual...05
+09/03/2019 8:34 PM,Trade,Buy to Open,TSLA,Buy,Open,1,09/13/2019,232.5,C,4.07,1.14,-407,Bought 1 TSLA 09/13/19 Call 232.50 @ 4.07,Individual...05
+09/03/2019 8:34 PM,Trade,Buy to Open,TSLA,Buy,Open,1,09/13/2019,197.5,P,0.78,1.14,-78,Bought 1 TSLA 09/13/19 Put 197.50 @ 0.78,Individual...05
+08/17/2019 4:00 AM,Receive Deliver,Assignment,LUV,,,1,08/16/2019,51,P,,0.00,0,Removal of option due to assignment,Individual...05
+08/17/2019 4:00 AM,Receive Deliver,Buy to Open,LUV,Buy,Open,100,,,,51,5.00,-5100,Buy to Open 100 LUV @ 51.00,Individual...05
+08/17/2019 4:00 AM,Money Movement,Deposit,,,,0,,,,,0.00,0.03,INTEREST ON CREDIT BALANCE,Individual...05
+08/17/2019 3:00 AM,Receive Deliver,Expiration,LUV,,,1,08/16/2019,48.5,P,,0.00,0,Removal of 1 LUV 08/16/19 Put 48.50 due to expiration.,Individual...05
+08/10/2019 4:00 AM,Receive Deliver,Assignment,GLW,,,1,08/09/2019,30.5,P,,0.00,0,Removal of option due to assignment,Individual...05
+08/10/2019 4:00 AM,Receive Deliver,Buy to Close,GLW,Buy,Close,100,,,,30.5,5.00,-3050,Buy to Close 100 GLW @ 30.50,Individual...05
+08/10/2019 4:00 AM,Receive Deliver,Exercise,GLW,,,1,08/09/2019,29,P,,0.00,0,Removal of option due to exercise,Individual...05
+08/10/2019 4:00 AM,Receive Deliver,Sell to Open,GLW,Sell,Open,100,,,,29,5.082,2900,Sell to Open 100 GLW @ 29.00,Individual...05
+08/10/2019 3:00 AM,Receive Deliver,Expiration,QCOM,,,1,08/09/2019,66,P,,0.00,0,Removal of 1 QCOM 08/09/19 Put 66.00 due to expiration.,Individual...05
+08/10/2019 3:00 AM,Receive Deliver,Expiration,QCOM,,,1,08/09/2019,68,P,,0.00,0,Removal of 1 QCOM 08/09/19 Put 68.00 due to expiration.,Individual...05
+08/03/2019 4:00 AM,Receive Deliver,Assignment,XOM,,,1,08/02/2019,73,P,,0.00,0,Removal of option due to assignment,Individual...05
+08/03/2019 4:00 AM,Receive Deliver,Buy to Close,XOM,Buy,Close,100,,,,73,5.00,-7300,Buy to Close 100 XOM @ 73.00,Individual...05
+08/03/2019 4:00 AM,Receive Deliver,Exercise,XOM,,,1,08/02/2019,72,P,,0.00,0,Removal of option due to exercise,Individual...05
+08/03/2019 4:00 AM,Receive Deliver,Sell to Open,XOM,Sell,Open,100,,,,72,5.162,7200,Sell to Open 100 XOM @ 72.00,Individual...05
+08/02/2019 8:31 PM,Trade,Sell to Open,QCOM,Sell,Open,1,08/09/2019,68,P,0.49,1.152,49,Sold 1 QCOM 08/09/19 Put 68.00 @ 0.49,Individual...05
+08/02/2019 8:31 PM,Trade,Buy to Open,QCOM,Buy,Open,1,08/09/2019,66,P,0.22,1.14,-22,Bought 1 QCOM 08/09/19 Put 66.00 @ 0.22,Individual...05
+07/31/2019 2:42 AM,Trade,Buy to Open,GLW,Buy,Open,1,08/09/2019,29,P,0.05,1.14,-5,Bought 1 GLW 08/09/19 Put 29.00 @ 0.05,Individual...05
+07/31/2019 2:42 AM,Trade,Sell to Open,GLW,Sell,Open,1,08/09/2019,30.5,P,0.21,1.152,21,Sold 1 GLW 08/09/19 Put 30.50 @ 0.21,Individual...05
+07/30/2019 8:31 PM,Trade,Buy to Open,LUV,Buy,Open,1,08/16/2019,48.5,P,0.12,1.14,-12,Bought 1 LUV 08/16/19 Put 48.50 @ 0.12,Individual...05
+07/30/2019 8:31 PM,Trade,Sell to Open,LUV,Sell,Open,1,08/16/2019,51,P,0.42,1.152,42,Sold 1 LUV 08/16/19 Put 51.00 @ 0.42,Individual...05
+07/27/2019 8:49 PM,Money Movement,Balance Adjustment,,,,0,,,,,0.00,-0.01,Regulatory fee adjustment,Individual...05
+07/26/2019 12:13 AM,Trade,Sell to Open,XOM,Sell,Open,1,08/02/2019,73,P,0.36,1.152,36,Sold 1 XOM 08/02/19 Put 73.00 @ 0.36,Individual...05
+07/26/2019 12:13 AM,Trade,Buy to Open,XOM,Buy,Open,1,08/02/2019,72,P,0.2,1.14,-20,Bought 1 XOM 08/02/19 Put 72.00 @ 0.20,Individual...05
+07/12/2019 4:00 AM,Money Movement,Withdrawal,,,,0,,,,,0.00,3000,Wire Funds Received,Individual...05
