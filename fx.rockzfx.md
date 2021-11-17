@@ -9,8 +9,9 @@
 1. [Master Class 1.0 `Keep it simple`](#master-class-10)
 2. [Master Class 2.0 Part 1: `Multiple timeframe mastery`](#master-class-20-part-1)
     - [Strategy](#strategy)
-    - [Though Process](#thought-process)
-    - [Momentum Shift Trading](#momentum-shift-trading)
+    - [Avoid this!](#avoid)
+    - [Thought Process](#thought-process)
+    - [Momentum Shift Trading](#momentum-shift-trading)    
     - [Entries](#entries)
 3. [Master Class 2.0 Part 2:`Entries mastery`](#master-class-20-part-2)
     - [4H Wick Rejection](#4h-wick-rejection)
@@ -131,7 +132,7 @@ It simply goes thru 3 step
 ### Market Bahaviour 
 `3. identify the trigger by candlestick bahaviour`
 
-1. 3-candle Formation
+1. 3-candle Formation 
     ![candle-formation](candle-formation.png)
 
     1. Momentum candle
@@ -344,7 +345,7 @@ It simply goes thru 3 step
 **Quick Recap**
 [Pattern Review](#pattern-and-process-mastermind)
 
-### Strategy
+### Applying Strategy
 1. structure low/high have been broken 
     - if structure low/high havn't, then it's consolidating or `double top/bottom`
 2. buy/sell after an exhaustion phase
@@ -353,17 +354,44 @@ It simply goes thru 3 step
 
 
 ### Thought Process
-1. Process
-2. Pattern
-    
+1. Criteria
+    [/] price has broken high/low
+    [/] clearly left the structure
+    [/] clearly exhausting
+    [/] 4H wick rejection indicating potential HL/LH
 
+2. Thought Process
+    [/] Is structure clear and can I identify if it is up or down?
+    [/] What phase is the market in? 
+        - stay away from `push phase`
+        - wait for wicks when in `exhausion phase`
+    [/] Do I see any issue if I take the trade? 
+    [/] Do I have enough range?
+    [/] Stay out! if I feel I am late
+    [/] Trade it! if I feel it is a trade
+3. Sample Thought Process
+![Sample thought process 1](sample-thought-process-1.png)
+![Sample thought process 2](sample-thought-process-2.png)
+![Sample thought process 3](sample-thought-process-3.png)
+![Sample thought process 4](sample-thought-process-4.png)
+
+4. Pattern
+    1. No.1
+    2. Market phases [link](#market-structure)
+    3. understanding candlestick patterns [link](#market-bahaviour)
+    
 ### Momentum Shift Trading
 1. identify Momentum shift
     1. 4H wick rejection continuation
+![4H wick rejection continuation](4h-wick-rejection-continuation.png)
     2. Breakout 50% retracement
+![Breakout 50% retracement](breakout-50%-retracement.png)
     3. Over-extended continuation
+![Over-extended continuation](over-extended-continuation.png)
     4. Double Top/Bottom continuation
+![Double top/bottom continuation](double-topbottom-continuation.png)
     5. Fail to break above/below
+![Fail to break above/below](fail-to-break-abovebelow.png)
 2. Pattern that form 
     1. pattern
     2. different form
@@ -382,31 +410,62 @@ It simply goes thru 3 step
 
 
 ### 4H Wick Rejection
-
-```
+``` Recall
 1. find wick rejection followed by momentum shift bar
 2. xx
 ```
-
-ex.1
-
-ex.2 
-![entry-4h-wick-reject-ex1](entry-4h-wick-reject-ex1.png)
+Example
+[4H wick rejection continuation example](4h-wick-rejection-continuation-ex1.png)
+[4H wick rejection continuation example](4h-wick-rejection-continuation-ex2.png)
+[4H wick rejection continuation example](4h-wick-rejection-continuation-ex3.png)
 
 ### Breakout 50 percent retracement
-`breakout with 50% retracement`
+``` Recall
+1. find wick rejection followed by momentum shift bar
+2. xx
+```
+Example
+[Breakout 50% retracement example](breakout-50%-retracement-ex1.png)
+[Breakout 50% retracement example](breakout-50%-retracement-ex2.png)
+[Breakout 50% retracement example](breakout-50%-retracement-ex3.png)
 
 ### Over-extended continuation
+``` Recall
+1. find wick rejection followed by momentum shift bar
+2. xx
+```
+Example
+[Over-extended continuation example](over-extended-continuation-ex1.png)
+[Over-extended continuation example](over-extended-continuation-ex2.png)
+[Over-extended continuation example](over-extended-continuation-ex3.png)
 
 ### Double Top or Bottom continuation
+``` Recall
+1. find wick rejection followed by momentum shift bar
+2. xx
+```
+Example
+[Double top/bottom continuation example](double-topbottom-continuation-ex1.png)
+[Double top/bottom continuation example](double-topbottom-continuation-ex2.png)
+[Double top/bottom continuation example](double-topbottom-continuation-ex3.png)
 
 ### Fail to break above or below
+``` Recall
+1. find wick rejection followed by momentum shift bar
+2. xx
+```
+Example
+[Fail to break above/below example](fail-to-break-abovebelow-ex1.png)
+[Fail to break above/below example](fail-to-break-abovebelow-ex2.png)
+[Fail to break above/below example](fail-to-break-abovebelow-ex3.png)
 
 
 ---
 [Back to Agenda](#agenda)
 # Master Class 3.0 
 `Single timeframe mastery`
+
+1. market structure (up/down/sideway)
 
 ---
 [Back to Agenda](#agenda)
@@ -415,8 +474,25 @@ ex.2
 
 ### Theory and What to expect
 1. `market always trends!` so go with market flow
-2. tons of oppties every day
+2. there are tons of oppties every day
 3. we can take advantage of `trends structure` then we can achieve good RR
+4. it is possible to have good RR and risk management 
+5. you'll be good to go if going with the `market flow`
+
+### Data breakdown 
+1. data collection
+    1. observation
+    2. %win from no BE rule
+    3. %lose from winning position
+
+### Key elements
+1. market structure
+2. normal pattern 
+3. extra pattern
+4. key level
+
+### Time & Pair
+1
 
 ---
 [Back to Agenda](#agenda)
