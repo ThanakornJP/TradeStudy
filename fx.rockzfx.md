@@ -345,22 +345,31 @@ It simply goes thru 3 step
 **Quick Recap**
 [Pattern Review](#pattern-and-process-mastermind)
 
-### Applying Strategy
-1. structure low/high have been broken 
-    - if structure low/high havn't, then it's consolidating or `double top/bottom`
-2. buy/sell after an exhaustion phase
-3. single `4H` candle `close with a wick` bcoz it creates `level` for you
-4. Momentum shift creating HL/LH
 
+### Applying Strategy
+[/] structure low/high have been broken 
+    - if structure low/high havn't, then it's probably `consolidating` or `double top/bottom`
+    - [/] price has broken high/low
+[/] clearly left the structure
+[/] buy/sell after an `exhaustion phase`
+    - identify strong exhaustion like 50%, 60%, etc.
+    - [/] clearly exhausting
+    - trade with the trend
+[/] 1 x `4H` candle `close with a wick` bcoz it creates `level` for you
+    - identify prospecting wick that can create level for us
+    - [/] 4H wick rejection indicating potential HL/LH
+[/] Momentum shift creating HL/LH
+
+### What to be avoid in `4H`!
+1. trade in push phase - winning opportunity is depleting
+2. trade too close to high/low - we can't create 3RR but we get negative RR instead when there is no room 
+3. trade breakout - it could break out and break back in
+4. trade while price is coming back to the level > 2 times
 
 ### Thought Process
-1. Criteria
-    [/] price has broken high/low
-    [/] clearly left the structure
-    [/] clearly exhausting
-    [/] 4H wick rejection indicating potential HL/LH
 
-2. Thought Process
+
+1. Thought Process
     [/] Is structure clear and can I identify if it is up or down?
     [/] What phase is the market in? 
         - stay away from `push phase`
@@ -369,40 +378,77 @@ It simply goes thru 3 step
     [/] Do I have enough range?
     [/] Stay out! if I feel I am late
     [/] Trade it! if I feel it is a trade
-3. Sample Thought Process
+2. Sample Thought Process
 ![Sample thought process 1](sample-thought-process-1.png)
 ![Sample thought process 2](sample-thought-process-2.png)
 ![Sample thought process 3](sample-thought-process-3.png)
 ![Sample thought process 4](sample-thought-process-4.png)
 
-4. Pattern
+3. Pattern
     1. No.1
     2. Market phases [link](#market-structure)
     3. understanding candlestick patterns [link](#market-bahaviour)
     
 ### Momentum Shift Trading
-1. identify Momentum shift
-    1. 4H wick rejection continuation
-![4H wick rejection continuation](4h-wick-rejection-continuation.png)
+1. Brief
+    1. Motto: it's not basic but advanced level of trading requiring you to understand 
+        1. `basic`
+        2. `patterns`
+        3. `entries`
+    2. Idea
+        [/] take advantage of `1 x 4H` candle
+        [/] identify continuation bullish/bearish
+        [/] getting in and out with in shortest time
+        [/] smaller `SL`, smaller `TP`
+    3. Benefit: less time consuming based on the same discipline and risk management
+        - ex. same 2% risk investing on smaller SL like 3pips allows you take larger lot size
+    4. Sample
+    ![momentum-shift-basic-ex1](momentum-shift-basic-ex1.png)
+
+2. Identify `Momentum Shift Trading` opportunity
+    1. 4H wick rejection continuation --> analyze in `4H` 
+
+**Evidence**
+1. immediate formation
+    1. strong rejection
+    2. pressure 
+    3. retracement
+2. deferred formation
+    1. breakout 
+    2. break back in
+    3. rejection 
+    4. pressure
+    5. retracement
+
+
+    ![4H wick rejection continuation](4h-wick-rejection-continuation.png)
     2. Breakout 50% retracement
-![Breakout 50% retracement](breakout-50%-retracement.png)
+    ![Breakout 50% retracement](breakout-50%-retracement.png)
     3. Over-extended continuation
-![Over-extended continuation](over-extended-continuation.png)
+    ![Over-extended continuation](over-extended-continuation.png)
     4. Double Top/Bottom continuation
-![Double top/bottom continuation](double-topbottom-continuation.png)
+    ![Double top/bottom continuation](double-topbottom-continuation.png)
     5. Fail to break above/below
-![Fail to break above/below](fail-to-break-abovebelow.png)
-2. Pattern that form 
+    ![Fail to break above/below](fail-to-break-abovebelow.png)
+3. Pattern that form in `1 x 4H`
+    1. these patterns are developed with in `1 x 4H after momentum shift`
+    2. patterns 
+        1. double top
+        2. lower high
+        3. higher low
+        4. perfect break and retest
+
     1. pattern
     2. different form
     3. clean pattern
     4. messy pattern
     5. How many pattern do I need?
-3. Reaction
+4. Reaction
     1. Fast reacting
     2. Slow reacting 
-4. why it works 
-5. Why sells 
+5. why it works 
+6. Why sells 
+
 ---
 [Back to Agenda](#agenda)
 # Master Class 2.0 Part 2
@@ -698,6 +744,9 @@ Practice via
 1. SMA200 - direction
 2. `EMA50` - mean value. In forex, **price always approaches the mean value** which is more comfortable 
 3. EMA14 - immediate movement
+4. `ATR` - volatility
+5. `RSI` - momentum
+
 
 
 ### Trading Pattern 
