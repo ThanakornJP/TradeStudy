@@ -407,21 +407,42 @@ It simply goes thru 3 step
 
 2. Identify `Momentum Shift Trading` opportunity
     1. 4H wick rejection continuation --> analyze in `4H` 
-
-**Evidence**
-1. immediate formation
-    1. strong rejection
-    2. pressure 
-    3. retracement
-2. deferred formation
-    1. breakout 
-    2. break back in
-    3. rejection 
-    4. pressure
-    5. retracement
-
-
-    ![4H wick rejection continuation](4h-wick-rejection-continuation.png)
+        1. sample
+        ![4H wick rejection continuation ex1](4h-wick-rejection-continuation-ex1.png)
+        2. idea 
+            1. zoom into wick rejection at lower timeframe and identify pattern for our entry
+        3. evidence
+            1. immediate formation
+                1. strong rejection
+                2. pressure 
+                3. retracement
+            2. deferred formation
+                1. breakout 
+                2. break back in
+                3. rejection 
+                4. pressure
+                5. retracement
+        4. Sample 1: bearish to bullish
+        Step 1: Identify strategy - what game we're about to play
+        ![4H wick rejection continuation sample 1 step 1](4h-wick-rejection-continuation-sample1-step1.png)
+        Step 2: Wait until we can identify structure
+        ![4H wick rejection continuation sample 1 step 2](4h-wick-rejection-continuation-sample1-step2.png)
+        ![4H wick rejection continuation sample 1 step 3](4h-wick-rejection-continuation-sample1-step3.png)
+        Step 3: wait for momentum shift, then zoom into lower timeframe (`15M`,`30M`,`1H`) to spot clear patterns
+        ![4H wick rejection continuation sample 1 step 4](4h-wick-rejection-continuation-sample1-step4.png)
+        ![4H wick rejection continuation sample 1 step 5](4h-wick-rejection-continuation-sample1-step5.png)
+        ![4H wick rejection continuation sample 1 step 6](4h-wick-rejection-continuation-sample1-step6.png)
+        Step 4: switch to `15M` (entry timeframe) to find the opportunity
+        ![4H wick rejection continuation sample 1 step 7](4h-wick-rejection-continuation-sample1-step7.png)
+        Step 5: take the trade in `15M` with `Stop Order` 
+        `Note` make sure price is placed in the middle of SL 
+        ![4H wick rejection continuation sample 1 step 8](4h-wick-rejection-continuation-sample1-step8.png)
+        Step 6: take BE, and let profit run
+        ![4H wick rejection continuation sample 1 step 9](4h-wick-rejection-continuation-sample1-step9.png)
+        ![4H wick rejection continuation sample 1 step 10](4h-wick-rejection-continuation-sample1-step10.png)
+        Step 7: zoom out to see momentum shift with 50% retracement shown in `4H`
+        ![4H wick rejection continuation sample 1 step 11](4h-wick-rejection-continuation-sample1-step11.png)
+    
     2. Breakout 50% retracement
     ![Breakout 50% retracement](breakout-50%-retracement.png)
     3. Over-extended continuation
