@@ -408,7 +408,11 @@ It simply goes thru 3 step
 
         2. `4H` see **1 wick rejection** followed by momentum shift candle
         3. `4H` `1H` mark and wait for 50% (30-60%) retracement of momentum shift candle 
-        `Remember` pullback too deep without closing higher/lower (around the same OHCL) may be too strong/risky to count as pullback after momentum shift bar. Momentum shift bar usualy changes level OHCL so we mostly see price falling down or pushing up in ladder step. 
+        `Remember` pullback too deep without closing higher/lower (around the same OHCL) may be too strong/risky to count as pullback after momentum shift bar. Momentum shift bar usualy changes level OHCL so we mostly see price falling down or pushing up in ladder step
+           |   ||       
+          |     |
+         |       |
+        ||        |
 
         4. `15M` wait for below pattern triggered before making an entry
             1. **1 or 2 clear wick rejections** to form HH/HL or LL/LH
@@ -431,7 +435,6 @@ It simply goes thru 3 step
 2. Identify `Momentum Shift Trading` opportunity
     1. 4H wick rejection continuation --> analyze in `4H` 
         1. How does it look like?
-
         It is basically a nice wick rejection followed by a momentum candle spotted in `4H`. Then, we mark potential retracement in lower timeframe `1H` respecting that momentum candle anticipating the pattern for making an entry along with the trend 
         ![4H wick rejection continuation ex1](4h-wick-rejection-continuation-ex1.png)
 
@@ -556,11 +559,8 @@ It simply goes thru 3 step
         `Note`: enough room for pricing moving before reaching lower low
         ![4H wick rejection continuation sample 3 step 13](4h-wick-rejection-continuation-sample3-step13.png)
 
-
-
     2. Breakout 50% retracement
         1. How does it look like
-
         Spotting the `consolidation` market got broken may lead to either 
         - (1) immediate - can make entry right away. We can find easy SL & TP. Thus, this pounces for TP.
             - when zooming into lower timeframe: pattern = **higher low/lower high**
@@ -674,11 +674,65 @@ It simply goes thru 3 step
         ![Breakout 50% retracement sample 3 step 14](breakout-50p-retracement-sample3-step14.png)      
 
     3. Over-extended continuation
-    ![Over-extended continuation](over-extended-continuation.png)
+        1. How does it look like
+
+        The idea is to spot `extreme in the market`, and believe that there will be `exhaustion` after the great push. Make an entry at the early pullback 
+        `Note` most of the time, we trade with the trend. This time, we take countertrend in short period of time
+        ![Over-extended continuation](over-extended-continuation.png)
+
+        2. Formation
+            1. Momentum shift
+            2. Clear exhausion
+        
+        3. Sample 1
+
+        `Step 1-3`: `4H` again, know the game and prepare your strategy         
+        ![Over-extended continuation sample 1 step 1](over-extended-continuation-sample1-step1.png)
+        ![Over-extended continuation sample 1 step 2](over-extended-continuation-sample1-step2.png)
+        ![Over-extended continuation sample 1 step 3](over-extended-continuation-sample1-step3.png)
+
+        `Step 4-5`: `4H` discern over-extended push 
+        ![Over-extended continuation sample 1 step 4](over-extended-continuation-sample1-step4.png)
+        ![Over-extended continuation sample 1 step 5](over-extended-continuation-sample1-step5.png)
+
+        `Step 6-7`: `4H` mark recent high at recent wick and anticipate exhaustion after great(over-extended) push
+        ![Over-extended continuation sample 1 step 6](over-extended-continuation-sample1-step6.png)
+        ![Over-extended continuation sample 1 step 7](over-extended-continuation-sample1-step7.png)
+
+        `Step 8-9`: `1H` `15M` see behaviours
+        ![Over-extended continuation sample 1 step 8](over-extended-continuation-sample1-step8.png)
+        ![Over-extended continuation sample 1 step 9](over-extended-continuation-sample1-step9.png)
+
+        `Step 10-11`: `15M` spot pattern that hides from your sight
+        `Remember` not every pattern is easily spotted
+
+        ![Over-extended continuation sample 1 step 10](over-extended-continuation-sample1-step10.png)
+        ![Over-extended continuation sample 1 step 11](over-extended-continuation-sample1-step11.png)
+
+        `Step 12-16`: `15M` take the trade, go BE, and let profit run
+        ![Over-extended continuation sample 1 step 12](over-extended-continuation-sample1-step12.png)
+        ![Over-extended continuation sample 1 step 13](over-extended-continuation-sample1-step13.png)
+        ![Over-extended continuation sample 1 step 14](over-extended-continuation-sample1-step14.png)
+        ![Over-extended continuation sample 1 step 15](over-extended-continuation-sample1-step15.png)
+        ![Over-extended continuation sample 1 step 16](over-extended-continuation-sample1-step16.png)
+        
+        3. Sample 2
+
+        `Step 1-3`: `4H` again, know the game and prepare your strategy         
+        ![Over-extended continuation sample 2 step 1](over-extended-continuation-sample2-step1.png)
+        ![Over-extended continuation sample 2 step 2](over-extended-continuation-sample2-step2.png)
+        ![Over-extended continuation sample 2 step 3](over-extended-continuation-sample2-step3.png)
+
     4. Double Top/Bottom continuation
     ![Double top/bottom continuation](double-topbottom-continuation.png)
+
+
     5. Fail to break above/below
     ![Fail to break above/below](fail-to-break-abovebelow.png)
+
+
+
+
 3. Pattern that form in `1 x 4H`
     1. these patterns are developed with in `1 x 4H after momentum shift`
     2. patterns 
