@@ -401,7 +401,24 @@ It simply goes thru 3 step
         1. `basic`
         2. `patterns`
         3. `entries`
-    2. Idea
+    2. `Idea` 
+        1. `4H` plan the game; what particular strategical edge you're playing
+        `Remember` trade the trend.
+        `Remember` ranging has a trend only if it shows breakout
+
+        2. `4H` see **1 wick rejection** followed by momentum shift candle
+        3. `4H` `1H` mark and wait for 50% (30-60%) retracement of momentum shift candle 
+        `Remember` pullback too deep without closing higher/lower (around the same OHCL) may be too strong/risky to count as pullback after momentum shift bar. Momentum shift bar usualy changes level OHCL so we mostly see price falling down or pushing up in ladder step. 
+
+        4. `15M` wait for below pattern triggered before making an entry
+            1. **1 or 2 clear wick rejections** to form HH/HL or LL/LH
+            2. **double top/bottom** 
+        `Remember` visual is a must because no pattern is always created precisely
+
+        5. `15M` manage risk, take BE and let profit run
+        `Remember` no perfection exists, but it needs to make sense (highly probable)
+
+
         [/] take advantage of `1 x 4H` candle
         [/] identify continuation bullish/bearish
         [/] getting in and out with in shortest time
@@ -414,10 +431,11 @@ It simply goes thru 3 step
 2. Identify `Momentum Shift Trading` opportunity
     1. 4H wick rejection continuation --> analyze in `4H` 
         1. How does it look like?
+
+        It is basically a nice wick rejection followed by a momentum candle spotted in `4H`. Then, we mark potential retracement in lower timeframe `1H` respecting that momentum candle anticipating the pattern for making an entry along with the trend 
         ![4H wick rejection continuation ex1](4h-wick-rejection-continuation-ex1.png)
-        2. idea 
-            1. zoom into wick rejection at lower timeframe and identify pattern for our entry
-        3. evidence
+
+        2. Formation
             1. immediate formation
                 1. strong rejection
                 2. pressure 
@@ -428,7 +446,7 @@ It simply goes thru 3 step
                 3. rejection 
                 4. pressure
                 5. retracement
-        4. Sample 1: bearish to bullish
+        3. Sample 1: bearish to bullish
 
         `Step 1`: `4H` Identify strategy - what game we're about to play
         ![4H wick rejection continuation sample 1 step 1](4h-wick-rejection-continuation-sample1-step1.png)
@@ -456,7 +474,7 @@ It simply goes thru 3 step
         `Step 11`: zoom out to see momentum shift with 50% retracement shown in `4H`
         ![4H wick rejection continuation sample 1 step 11](4h-wick-rejection-continuation-sample1-step11.png)
 
-        5. Sample 2: bearish to bullish
+        4. Sample 2: bearish to bullish
 
         `Step 0`: know the game and select how to play!
         - this is downtrend where we anticipate to follow to down side with wick rejection
@@ -496,7 +514,7 @@ It simply goes thru 3 step
         ![4H wick rejection continuation sample 2 step 11](4h-wick-rejection-continuation-sample2-step7.png)
         ![4H wick rejection continuation sample 2 step 12](4h-wick-rejection-continuation-sample2-step8.png)
 
-        6. Sample 2: bearish to bullish
+        5. Sample 3: bearish to bullish
 
         `Step 0`: know the game and select how to play!
         - this is downtrend where we anticipate to follow to down side as we see wick rejection forming lower low, then we need to see lower high 
@@ -543,30 +561,117 @@ It simply goes thru 3 step
     2. Breakout 50% retracement
         1. How does it look like
 
-        Having a look at the consolidation got broken may lead to either 
+        Spotting the `consolidation` market got broken may lead to either 
         - (1) immediate - can make entry right away. We can find easy SL & TP. Thus, this pounces for TP.
             - when zooming into lower timeframe: pattern = **higher low/lower high**
         - (2) not immediate - need to wait for nice formation before moving forward. There is usually no enough room for TP to satisfy 1:3RR, so this takes time
             - when zooming into lower timeframe: pettern = **double top/bottom**
             - `Note` we need another `4H` to develop the formation
+        So, basically, it may or may not give you enough room to take profit after breaking structure. Typically, we ain't sure if it's gonna break the structure or not. Then, we'd better zoom into `15M` to find nice and clear structure.
         ![Breakout 50% retracement](breakout-50p-retracement.png)
+        
 
-        It broke out the range and form 50% retracement. Now, we ain't sure if it's gonna break the structure. Then, we'd better zoom into `15M`. If there are 2 of 15M candle
-        ![Breakout 50% retracement-1](breakout-50p-retracement1.png)
+        > `Remember` 
+        > 2 wicks rejection for `15M`
+        > 1 wick rejection for `4H`
 
-        2. Idea
-            1. immediate 
-            2. not immediate 
+        2. Formation
+            1. Immediate - HH/HL or LL/LH in `15M`
+            2. Not immediate - Double top/bottom in `15M`
+        3. Sample 1
 
-
-        3. Sample
-
-        `Step 1`: `4H` zoom out to see 50% retracement
-
+        `Step 1-3`: `4H` mark high and low of the range, and wait for clear momentum
+        `Remember` Always check your range
+        
         ![Breakout 50% retracement sample 1 step 1](breakout-50p-retracement-sample1-step1.png)
+        ![Breakout 50% retracement sample 1 step 2](breakout-50p-retracement-sample1-step2.png)
+        ![Breakout 50% retracement sample 1 step 3](breakout-50p-retracement-sample1-step3.png)
+
+        `Step 4-7`: `4H` mark potential retracement like 50% of momentum bar, and wait for clear break out of the range. Scale down to `1H` to cross check potential turning point before driving out of the range.
+        
+        `Remember` Always wait for clear break 
+        ![Breakout 50% retracement sample 1 step 4](breakout-50p-retracement-sample1-step4.png)
+        ![Breakout 50% retracement sample 1 step 5](breakout-50p-retracement-sample1-step5.png)
+        ![Breakout 50% retracement sample 1 step 6](breakout-50p-retracement-sample1-step6.png)
+        ![Breakout 50% retracement sample 1 step 7](breakout-50p-retracement-sample1-step7.png)
+        
+        `Step 8-9`: `4H` mark potential retracement (50%) of breakout bar.
+        ![Breakout 50% retracement sample 1 step 8](breakout-50p-retracement-sample1-step8.png)
+        ![Breakout 50% retracement sample 1 step 9](breakout-50p-retracement-sample1-step9.png)
 
 
+        `Step 10-11`: `15M` wait for retracement coming to the point we marked (50% retracement)
+        `Remember` Always visualize your findings on the chart. You need to see it as clear visualization.
 
+        ![Breakout 50% retracement sample 1 step 10](breakout-50p-retracement-sample1-step10.png)
+        ![Breakout 50% retracement sample 1 step 11](breakout-50p-retracement-sample1-step11.png)
+
+        `Step 12-15`: `15M` take the trade and go BE
+        `Remember` price's always in the middel of SL range
+        `Remember` it doesn't have to retrace 50%; it could be more or less. **Adjust yourself to what market is being**
+
+        ![Breakout 50% retracement sample 1 step 12](breakout-50p-retracement-sample1-step12.png)
+        ![Breakout 50% retracement sample 1 step 13](breakout-50p-retracement-sample1-step13.png)
+        ![Breakout 50% retracement sample 1 step 14](breakout-50p-retracement-sample1-step14.png)
+        ![Breakout 50% retracement sample 1 step 15](breakout-50p-retracement-sample1-step15.png)
+
+        4. Sample 2
+
+        `Step 1-2`: `4H` come up with the strategy based on dominant direction
+        `Remember` Always with the trend
+        
+        ![Breakout 50% retracement sample 2 step 1](breakout-50p-retracement-sample1-step1.png)
+        ![Breakout 50% retracement sample 2 step 2](breakout-50p-retracement-sample1-step2.png)
+
+        `Step 3-5`: `4H` mark the range, and wait for momentum bar breaking out the range
+        
+        ![Breakout 50% retracement sample 2 step 3](breakout-50p-retracement-sample1-step3.png)
+        ![Breakout 50% retracement sample 2 step 4](breakout-50p-retracement-sample1-step4.png)
+        ![Breakout 50% retracement sample 2 step 5](breakout-50p-retracement-sample1-step5.png)
+
+        `Step 6`: `4H` mark 50% retracement
+        ![Breakout 50% retracement sample 2 step 6](breakout-50p-retracement-sample1-step6.png)
+
+        `Step 7`: `15M` wait for retracement at given level (50% retracement of momentum shift bar)
+        ![Breakout 50% retracement sample 2 step 7](breakout-50p-retracement-sample1-step7.png)
+
+        `Step 8-12`: `15M` take the trade when market comes to your edge
+        `Remember` everything doesn't have to be perfect, but need to make sense
+
+        ![Breakout 50% retracement sample 2 step 8](breakout-50p-retracement-sample1-step8.png)
+        ![Breakout 50% retracement sample 2 step 9](breakout-50p-retracement-sample1-step9.png)
+        ![Breakout 50% retracement sample 2 step 10](breakout-50p-retracement-sample1-step10.png)
+        ![Breakout 50% retracement sample 2 step 11](breakout-50p-retracement-sample1-step11.png)
+        ![Breakout 50% retracement sample 2 step 12](breakout-50p-retracement-sample1-step12.png)
+
+        4. Sample 3
+
+        `Step 1`: `4H` come up with the strategy always. Failing to break may need another exhaustion to be able to break above or below
+        ![Breakout 50% retracement sample 3 step 1](breakout-50p-retracement-sample3-step1.png)    
+
+        `Step 2-3`: `4H` mark high & low, and wait for momentum shift breaking out
+        ![Breakout 50% retracement sample 3 step 2](breakout-50p-retracement-sample3-step2.png)    
+        ![Breakout 50% retracement sample 3 step 3](breakout-50p-retracement-sample3-step3.png)    
+
+        `Step 4-7`: `4H` `1H` analyze momentum shift bar, mark 50% retracement, and wait for price retracing back to that level
+        `Remember` good pullback must not be too strong like double top/bottom, but HH/HL or LL/LH
+
+        ![Breakout 50% retracement sample 3 step 4](breakout-50p-retracement-sample3-step4.png)    
+        ![Breakout 50% retracement sample 3 step 5](breakout-50p-retracement-sample3-step5.png)    
+        ![Breakout 50% retracement sample 3 step 6](breakout-50p-retracement-sample3-step6.png)    
+        ![Breakout 50% retracement sample 3 step 7](breakout-50p-retracement-sample3-step7.png)    
+
+
+        `Step 8-10`: `15M` spot pattern/evidence which is in this case double top
+        ![Breakout 50% retracement sample 3 step 8](breakout-50p-retracement-sample3-step8.png)    
+        ![Breakout 50% retracement sample 3 step 9](breakout-50p-retracement-sample3-step9.png)    
+        ![Breakout 50% retracement sample 3 step 10](breakout-50p-retracement-sample3-step10.png)  
+
+        `Step 11-14`: `15M` take the trade, go BE and realize breakout with double top 50% retracement
+        ![Breakout 50% retracement sample 3 step 11](breakout-50p-retracement-sample3-step11.png)      
+        ![Breakout 50% retracement sample 3 step 12](breakout-50p-retracement-sample3-step12.png)      
+        ![Breakout 50% retracement sample 3 step 13](breakout-50p-retracement-sample3-step13.png)      
+        ![Breakout 50% retracement sample 3 step 14](breakout-50p-retracement-sample3-step14.png)      
 
     3. Over-extended continuation
     ![Over-extended continuation](over-extended-continuation.png)
