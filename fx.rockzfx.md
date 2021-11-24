@@ -676,13 +676,14 @@ It simply goes thru 3 step
     3. Over-extended continuation
         1. How does it look like
 
-        The idea is to spot `extreme in the market`, and believe that there will be `exhaustion` after the great push. Make an entry at the early pullback 
+        The idea is to spot `extreme push in the market`, and believe that there will be `exhaustion` after the great push. Make an entry at the early pullback 
+        `Patter` more often than not it is: push (wave 1) --> pull (wave 2) --> `extreme push (wave 3)` --> pull (entry)
         `Note` most of the time, we trade with the trend. This time, we take countertrend in short period of time
         ![Over-extended continuation](over-extended-continuation.png)
 
-        2. Formation
-            1. Momentum shift
-            2. Clear exhausion
+        2. Formation -- not really clear, so let's see sample
+            1. Momentum shift 
+            2. Clear exhausion 
         
         3. Sample 1
 
@@ -718,10 +719,61 @@ It simply goes thru 3 step
         
         3. Sample 2
 
-        `Step 1-3`: `4H` again, know the game and prepare your strategy         
+        `Step 1-2`: `4H` again, know the game and prepare your strategy         
         ![Over-extended continuation sample 2 step 1](over-extended-continuation-sample2-step1.png)
         ![Over-extended continuation sample 2 step 2](over-extended-continuation-sample2-step2.png)
+
+        `Step 3-4`: `4H` spot the wick rejection followed by momentum shift
         ![Over-extended continuation sample 2 step 3](over-extended-continuation-sample2-step3.png)
+        ![Over-extended continuation sample 2 step 4](over-extended-continuation-sample2-step4.png)
+
+        `Step 5-6`: `4H` mark 50% retracement, and `1H` observe behaviour
+        ![Over-extended continuation sample 2 step 5](over-extended-continuation-sample2-step5.png)
+        ![Over-extended continuation sample 2 step 6](over-extended-continuation-sample2-step6.png)
+
+        `Step 7-8`: `15M` wait for pullback around that level
+        `Remember` don't expect the perfect; it could be more or less than 50% retracement
+        `Remember` it doesn't have to be only wick rejection; engulfing is another to spot
+
+        ![Over-extended continuation sample 2 step 7](over-extended-continuation-sample2-step7.png)
+        ![Over-extended continuation sample 2 step 8](over-extended-continuation-sample2-step8.png)
+        
+        `Step 9-13`: `15M` manage the trade, go BE, and profit run
+        ![Over-extended continuation sample 2 step 9](over-extended-continuation-sample2-step9.png)
+        ![Over-extended continuation sample 2 step 10](over-extended-continuation-sample2-step10.png)
+        ![Over-extended continuation sample 2 step 11](over-extended-continuation-sample2-step11.png)
+        ![Over-extended continuation sample 2 step 12](over-extended-continuation-sample2-step12.png)
+        ![Over-extended continuation sample 2 step 13](over-extended-continuation-sample2-step13.png)
+
+
+        3. Sample 3
+
+        `Step 1-2`: `4H` again, know the game and prepare your strategy         
+        ![Over-extended continuation sample 2 step 1](over-extended-continuation-sample2-step1.png)
+        ![Over-extended continuation sample 2 step 2](over-extended-continuation-sample2-step2.png)
+
+        `Step 3-4`: `4H` spot potential stop (wick rejection,engulfing) as it is slow down, and wait for momentum shift bar
+        ![Over-extended continuation sample 2 step 3](over-extended-continuation-sample2-step3.png)
+        ![Over-extended continuation sample 2 step 4](over-extended-continuation-sample2-step4.png)
+
+        `Step 5-6`: `4H` mark 50% retracement
+        ![Over-extended continuation sample 2 step 5](over-extended-continuation-sample2-step5.png)
+        ![Over-extended continuation sample 2 step 6](over-extended-continuation-sample2-step6.png)
+        
+        `Step 7-8`: `1H` observe patterns where in this case D.T. shown
+        ![Over-extended continuation sample 2 step 7](over-extended-continuation-sample2-step7.png)
+        ![Over-extended continuation sample 2 step 8](over-extended-continuation-sample2-step8.png)
+
+        `Step 9`: `15M` observer behaviour. wait for price coming back for 2nd chance to make an entry        
+        `Remember` 1st change to make an entry might pass; you can wait for second or disregard it.
+        ![Over-extended continuation sample 2 step 9](over-extended-continuation-sample2-step9.png)
+        
+        `Step 10-13`: `15M` manage the trade, go BE, and let profit run
+        ![Over-extended continuation sample 2 step 10](over-extended-continuation-sample2-step10.png)
+        ![Over-extended continuation sample 2 step 11](over-extended-continuation-sample2-step11.png)
+        ![Over-extended continuation sample 2 step 12](over-extended-continuation-sample2-step12.png)
+        ![Over-extended continuation sample 2 step 13](over-extended-continuation-sample2-step13.png)
+
 
     4. Double Top/Bottom continuation
     ![Double top/bottom continuation](double-topbottom-continuation.png)
