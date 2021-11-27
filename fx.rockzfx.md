@@ -1211,17 +1211,36 @@ Example
 [Back to Agenda](#agenda)
 # Pattern and Process Mastermind
 
-### Structure
+1. Structure
 - practice by reading from time to time and decompose what structure is being formed without entry consideration. Like, watch movie and **realize sequence of stories**
 - `Expectation`: Direction bias, level created, bahaviour including decision of sell or buy
+- Challenge 1 
+![Structure Mastermind Sample1 - Question](structure-mastermind-sample1-question.png)
+![Structure Mastermind Sample1 - Answer](structure-mastermind-sample1-answer.png)
 
-Example 1 
-![Ex1](structure-mastermind-ex1.png)
+- Challenge 2: initially, price has been push higher and create double top
+![Structure Mastermind Sample2 - Question](structure-mastermind-sample2-question.png)
+![Structure Mastermind Sample2 - Answer](structure-mastermind-sample2-answer.png)
 
-### Patterns
+- Challenge 3 
+![Structure Mastermind Sample3 - Question](structure-mastermind-sample3-question.png)
+![Structure Mastermind Sample3 - Answer](structure-mastermind-sample3-answer.png)
+
+2. Pattern
 - practice by reading from time to time and spot what pattern is being formed 
 without entry consideration. Like, watch movie and **spot easter egg**.
 - `Expectation`: Pattern mapping
+- Challenge 1 
+![Pattern Mastermind Sample1 - Question](pattern-mastermind-sample1-question.png)
+![Pattern Mastermind Sample1 - Answer](pattern-mastermind-sample1-answer.png)
+
+- Challenge 2 
+![Pattern Mastermind Sample2 - Question](pattern-mastermind-sample2-question.png)
+![Pattern Mastermind Sample2 - Answer](pattern-mastermind-sample2-answer.png)
+
+- Challenge 13
+![Pattern Mastermind Sample3 - Question](pattern-mastermind-sample3-question.png)
+![Pattern Mastermind Sample3 - Answer](pattern-mastermind-sample3-answer.png)
 
 
 Example 1: Chesseman, BOBBI, BNR
