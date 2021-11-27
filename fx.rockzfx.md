@@ -559,7 +559,9 @@ It simply goes thru 3 step
         `Note`: enough room for pricing moving before reaching lower low
         ![4H wick rejection continuation sample 3 step 13](4h-wick-rejection-continuation-sample3-step13.png)
 
-    2. Breakout 50% retracement
+    2. Breakout 50% retracement `***`
+        `Note` 50% retracement after momentum bar will be mainly used with other patterns 
+
         1. How does it look like
         Spotting the `consolidation` market got broken may lead to either 
         - (1) immediate - can make entry right away. We can find easy SL & TP. Thus, this pounces for TP.
@@ -776,11 +778,60 @@ It simply goes thru 3 step
 
 
     4. Double Top/Bottom continuation
-    ![Double top/bottom continuation](double-topbottom-continuation.png)
+        1. How does it look like
+        
+        `D.T/D.B` happens when it fails to break the structure for its continuation
+        `Double Top`: fail to break the structure in bearish market, then it pulls back to previous high before continue
+        `Double Buttom`: fail to break the structure in bullish market, then it pulls back to previous low before continue
+        
+        `Remember` we don't get in right after DT/DB formed bcoz we don't if that is a true rejection, so we need to wait momentum bar(momentum shift) comes in first
 
+        ![Double top/bottom continuation](double-topbottom-continuation.png)
+
+        2. Formation 
+            1. Momentum shift 
+        
+        3. Sample 1
+        `Step 1-4`: `4H` again, visualize structure/pattern, and know the game to prepare your strategy        
+        `Remember`: never expect LH without any confirmation since it could turn likewise
+
+        ![Double top/bottom continuation sample 1 step 1](double-topbottom-continuation-sample1-step1.png)
+        ![Double top/bottom continuation sample 1 step 2](double-topbottom-continuation-sample1-step2.png)
+        ![Double top/bottom continuation sample 1 step 3](double-topbottom-continuation-sample1-step3.png)
+        ![Double top/bottom continuation sample 1 step 4](double-topbottom-continuation-sample1-step4.png)
+
+        `Step 5-8`: `4H` use momentum shift in confluence to confirm pattern being used. 
+        `Remember` from **possibility** to **probability** not **perfection**
+        
+        ![Double top/bottom continuation sample 1 step 5](double-topbottom-continuation-sample1-step5.png)
+        ![Double top/bottom continuation sample 1 step 6](double-topbottom-continuation-sample1-step6.png)
+        ![Double top/bottom continuation sample 1 step 7](double-topbottom-continuation-sample1-step7.png)
+        ![Double top/bottom continuation sample 1 step 8](double-topbottom-continuation-sample1-step8.png)
+
+        `Step 9`: `4H` mark 50% retracement        
+        ![Double top/bottom continuation sample 1 step 9](double-topbottom-continuation-sample1-step9.png)
+
+        `Step 10-11`: `15M` spot the shown pattern giving us an edge based on 50% pullback level marked
+        ![Double top/bottom continuation sample 1 step 10](double-topbottom-continuation-sample1-step10.png)
+        ![Double top/bottom continuation sample 1 step 11](double-topbottom-continuation-sample1-step11.png)
+
+        `Step 12-15`: `15M` manage the trade, go BE, and let it flow
+        ![Double top/bottom continuation sample 1 step 12](double-topbottom-continuation-sample1-step12.png)
+        ![Double top/bottom continuation sample 1 step 13](double-topbottom-continuation-sample1-step13.png)
+        ![Double top/bottom continuation sample 1 step 14](double-topbottom-continuation-sample1-step14.png)
+        ![Double top/bottom continuation sample 1 step 15](double-topbottom-continuation-sample1-step15.png)
+
+        `Step 16`: `4H` it is initially fail to break the low (turnaround), then it gets strengthen by D.B. with momentum bar before resuming its trend
+        ![Double top/bottom continuation sample 1 step 16](double-topbottom-continuation-sample1-step16.png)
+
+        4. Sample 2
+        5. Sample 3
 
     5. Fail to break above/below
-    ![Fail to break above/below](fail-to-break-abovebelow.png)
+        1. How does it look like
+
+        price can't break the structure to continue further on the dominant direction, so anticipate market tunraround
+        ![Fail to break above/below](fail-to-break-abovebelow.png)
 
 
 
