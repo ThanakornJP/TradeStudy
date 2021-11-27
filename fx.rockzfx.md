@@ -877,8 +877,45 @@ It simply goes thru 3 step
         ![Double top/bottom continuation sample 2 step 18](double-topbottom-continuation-sample2-step18.png)
 
         5. Sample 3
-        `Step 1-6`: `4H` Again, know the game (listen to what God is telling you about the market) to plan your trade. 
+        `Step 1-4`: `4H` Super importantly, know the game. sit awaiting if you can't clearly see the market's movement
+        `Remember` mark range if you can't come up with anything, and observe the behaviour
+
         ![Double top/bottom continuation sample 3 step 1](double-topbottom-continuation-sample3-step1.png)
+        ![Double top/bottom continuation sample 3 step 2](double-topbottom-continuation-sample3-step2.png)
+        ![Double top/bottom continuation sample 3 step 3](double-topbottom-continuation-sample3-step3.png)
+        ![Double top/bottom continuation sample 3 step 4](double-topbottom-continuation-sample3-step4.png)
+
+
+        `Step 5-7`: `4H` momentum comes in followed by its countering `breakout and break back in`. Visualize the pattern; now we see highly likely of D.T. formed
+
+        ![Double top/bottom continuation sample 3 step 5](double-topbottom-continuation-sample3-step5.png)
+        ![Double top/bottom continuation sample 3 step 6](double-topbottom-continuation-sample3-step6.png)
+        ![Double top/bottom continuation sample 3 step 7](double-topbottom-continuation-sample3-step7.png)
+
+        `Step 8-9`: `1H` mark D.T
+        ![Double top/bottom continuation sample 3 step 8](double-topbottom-continuation-sample3-step8.png)
+        ![Double top/bottom continuation sample 3 step 9](double-topbottom-continuation-sample3-step9.png)
+
+        `Step 10-11`: `4H` realize D.T, and mark 50% retracement
+        ![Double top/bottom continuation sample 3 step 10](double-topbottom-continuation-sample3-step10.png)
+        ![Double top/bottom continuation sample 3 step 11](double-topbottom-continuation-sample3-step11.png)
+
+        `Step 12`: `15M` see momentum shift
+        ![Double top/bottom continuation sample 3 step 12](double-topbottom-continuation-sample3-step12.png)
+
+        `Step 13-15`: `15M` anticipate patterns either wick rejection or DT/DB
+        ![Double top/bottom continuation sample 3 step 13](double-topbottom-continuation-sample3-step13.png)
+        ![Double top/bottom continuation sample 3 step 14](double-topbottom-continuation-sample3-step14.png)
+        ![Double top/bottom continuation sample 3 step 15](double-topbottom-continuation-sample3-step15.png)
+
+
+        `Step 16-18`: `15M` manage the trade, go BE, and let it fly
+        ![Double top/bottom continuation sample 3 step 16](double-topbottom-continuation-sample3-step16.png)
+        ![Double top/bottom continuation sample 3 step 17](double-topbottom-continuation-sample3-step17.png)
+        ![Double top/bottom continuation sample 3 step 18](double-topbottom-continuation-sample3-step18.png)
+
+        `Step 19`: `4H` 50% pullback entry based on D.T to the downside
+        ![Double top/bottom continuation sample 3 step 19](double-topbottom-continuation-sample3-step19.png)
 
     5. Fail to break above/below
         1. How does it look like
