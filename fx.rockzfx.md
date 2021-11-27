@@ -348,7 +348,7 @@ It simply goes thru 3 step
 # Master Class 2.0 Part 1
 `Part 1: Multiple timeframe mastery`
 
-**Quick Recap**
+### Quick Recap
 [Pattern Review](#pattern-and-process-mastermind)
 
 
@@ -373,8 +373,6 @@ It simply goes thru 3 step
 4. trade while price is coming back to the level > 2 times
 
 ### Thought Process
-
-
 1. Thought Process
     [/] Is structure clear and can I identify if it is up or down?
     [/] What phase is the market in? 
@@ -788,6 +786,11 @@ It simply goes thru 3 step
 
         ![Double top/bottom continuation](double-topbottom-continuation.png)
 
+        There are fast and slow entry. If you get in early, you're highly likely to win as there is more room for price to move towards TP
+        ![Double top/bottom continuation entry comparison](double-topbottom-continuation-2.png)
+
+
+
         2. Formation 
             1. Momentum shift 
         
@@ -1040,24 +1043,78 @@ It simply goes thru 3 step
         `Step 16`: `4H` it is fail-to-break followed by momentum shift with entry twice.
         ![Fail to break above/below sample3 step 16](fail-to-break-abovebelow-sample3-step16.png)
         
-3. Pattern that form in `1 x 4H`
-    1. these patterns are developed with in `1 x 4H after momentum shift`
-    2. patterns 
-        1. double top
-        2. lower high
-        3. higher low
-        4. perfect break and retest
+3. Pattern in detail 
+    1. [`4H`] - Pattern: these patterns are developed with in `1 x 4H after momentum shift`
+        1. formations
+            `Remember` identify below patterns is extremely hard but it's crucial
+            1. double top/bottom
+            2. lower high (LH)
+            3. higher low (HL)
+            4. perfect break and retest
+            ![4H Patter formed after momentum shift bar](4H-pattern-formed-after-momentum-shift.png)
 
-    1. pattern
-    2. different form
-    3. clean pattern
-    4. messy pattern
-    5. How many pattern do I need?
-4. Reaction
-    1. Fast reacting
-    2. Slow reacting 
-5. why it works 
-6. Why sells 
+        2. what does pattern infer?
+            1. 1 x 4H bar = 16 x 15M
+            2. wick indicates pressure in the market. It is needed to create a tradable structure
+            `Remember` Structure is formed everyday, but it is just hided from your sight
+
+        3. Example
+        
+        `Example 1` wick followed by momentum shift retracing at 50% pullback in form of LH
+        ![4H-pattern-formation-sample1](4h-pattern-formation-sample1.png)
+
+        `Example 2` LH followed by LL
+        ![4H-pattern-formation-sample2](4h-pattern-formation-sample2.png)
+
+        `Example 3` Double Top (DT)
+        ![4H-pattern-formation-sample3](4h-pattern-formation-sample3.png)
+
+        `Example 4` Break-out and Break-back-in followed by LH
+        ![4H-pattern-formation-sample4](4h-pattern-formation-sample4.png)
+
+    2. [`15M`] - Pattern's being formed variation in `15M` only
+        1. Clean pattern
+        ![15M - Pattern Variation Clean Pattern](15m-pattern-variation-clean-pattern.png)
+
+        2. Messy pattern
+        Price lost its momentum to push up, so it now can go either up or down 
+        `Remember` as long as you back your analysis with clear mind of dominant direction and structure, it is good to go even it is hard to visualize the pattern. 
+        `Remember` take the trade **only when you have clear mind** of what you're risking
+        ![15M - Pattern Variation Messy Pattern](15m-pattern-variation-messy-pattern.png)
+
+        3. Fast reacting
+        Basically, price significantly reacts to respecting level by shown great momentum shift after respecting 
+        ![15M - Pattern Variation Fast Reaction Pattern](15m-pattern-variation-fast-reaction-pattern.png)
+
+        4. Slow reacting 
+        Solely analyze in `15M` could lead you to massive destruction as below
+        ![15M - Pattern Variation Slow Reaction Pattern - Wrong Analysis](15m-pattern-variation-slow-reaction-pattern-1.png)
+
+        Instead, we do MTFA, and follow direction and structure of `4H`
+        `Remember` KIDS - `K`eep `I`t `D`amn `S`imple
+        ![15M - Pattern Variation Slow Reaction Pattern - Correct Analysis](15m-pattern-variation-slow-reaction-pattern-2.png)
+
+        5. Break and retest
+        Simple break and retest is also commonly found in `15M`
+        ![15M - Pattern Variation Break-and-Retest Pattern](15m-pattern-variation-break-n-retest-pattern.png)
+        
+
+    3. How many pattern do I need?
+    `Answer` 2-3 patterns
+    `Remember` learning is easy; master at it (to make it profitable/your edge) is hard and waste time 
+    `Tip` stop hopping like grasshopper, and tie with knot with a few systems you believe. Learn hard, rehearse hard, test hard, work hard, earn abundantly
+
+    4. What pattern Rockzfx trade?
+        `Answer` 
+        1. 4H wick rejection continuation, 
+        2. Breakout 50% retracement
+        3. Over-extended continuation
+        4. LH after Double Top or HL after Double Bottom - slow entry 
+        `Note` entry with double top = fast entry
+
+4. Summary
+> factor everything you leaned altogether 
+> structure + direction + pattern + behaviour + enough range to fit in 3RR
 
 ---
 [Back to Agenda](#agenda)
@@ -1148,22 +1205,22 @@ Example
 4. key level
 
 ### Time & Pair
-1
+1. xxx
 
 ---
 [Back to Agenda](#agenda)
 # Pattern and Process Mastermind
 
-**Structure**
-- practice by reading from time to time and decompose what structure is being formed without entry consideration. Like, watch movie and realize sequence of stories
+### Structure
+- practice by reading from time to time and decompose what structure is being formed without entry consideration. Like, watch movie and **realize sequence of stories**
 - `Expectation`: Direction bias, level created, bahaviour including decision of sell or buy
 
 Example 1 
 ![Ex1](structure-mastermind-ex1.png)
 
-**Patterns**
+### Patterns
 - practice by reading from time to time and spot what pattern is being formed 
-without entry consideration. Like, watch movie and spot easter egg.
+without entry consideration. Like, watch movie and **spot easter egg**.
 - `Expectation`: Pattern mapping
 
 
