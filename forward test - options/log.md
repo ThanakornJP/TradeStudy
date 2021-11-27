@@ -2,11 +2,11 @@
 [/] 2.0
 [/] pattern and process
 [/] trading plan
-[ ] 3.0
+[/] 100 challenge 
 [!] 4.0
+[ ] 3.0
 
 
-[ ] 100 challenge 
 [ ] break and retest sim
 [ ] Jan'21 - journal guide
 [ ] Jan'21 - morning analysis

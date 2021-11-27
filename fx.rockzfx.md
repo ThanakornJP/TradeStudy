@@ -1484,6 +1484,12 @@ There must include `NEVER` and `ALWAYS`
 # Challenge {#challenge}
 `Practice —> Challenge —> Optimize —> Repeat`
 
+[Challenge Sample Output](100-challenge-1.png)
+[Challenge Sample Output](100-challenge-2.png)
+[Challenge Sample Output](100-challenge-3.png)
+[Challenge Sample Output](100-challenge-4.png)
+[Challenge Sample Output](100-challenge-5.png)
+
 
 ### Task
 - 100-trade challenges on major pairs + gold
