@@ -923,9 +923,123 @@ It simply goes thru 3 step
         price can't break the structure to continue further on the dominant direction, so anticipate market tunraround
         ![Fail to break above/below](fail-to-break-abovebelow.png)
 
+        2. Sample 1
+        
+        `Step 1-3`: `4H` visualize the market, and ask your intuitiveness what strategy you may draw on the current market
+        `Remember` draw the structure high and low
+        `Note` minor level is sometimes also important
+
+        ![Fail to break above/below sample1 step 1](fail-to-break-abovebelow-sample1-step1.png)
+        ![Fail to break above/below sample1 step 2](fail-to-break-abovebelow-sample1-step2.png)
+        ![Fail to break above/below sample1 step 3](fail-to-break-abovebelow-sample1-step3.png)
 
 
+        `Step 4-6`: `4H` spot fail-to-break pattern to anticipate following momentum shift other way around
+        ![Fail to break above/below sample1 step 4](fail-to-break-abovebelow-sample1-step4.png)
+        ![Fail to break above/below sample1 step 5](fail-to-break-abovebelow-sample1-step5.png)
+        ![Fail to break above/below sample1 step 6](fail-to-break-abovebelow-sample1-step6.png)
 
+        `Step 7`: `4H` mark 50%(potential) retracement 
+        ![Fail to break above/below sample1 step 7](fail-to-break-abovebelow-sample1-step7.png)
+
+        `Step 8`: `1H` get clearer visualization
+        ![Fail to break above/below sample1 step 8](fail-to-break-abovebelow-sample1-step8.png)
+
+        `Step 9-12`: `15M` anticipate pullback drawn to marked level + momentum shift to downside
+        `Remember` formulating pattern could be wick rejection or DT/DB
+
+        ![Fail to break above/below sample1 step 9](fail-to-break-abovebelow-sample1-step9.png)
+        ![Fail to break above/below sample1 step 10](fail-to-break-abovebelow-sample1-step10.png)
+        ![Fail to break above/below sample1 step 11](fail-to-break-abovebelow-sample1-step11.png)
+        ![Fail to break above/below sample1 step 12](fail-to-break-abovebelow-sample1-step12.png)
+
+        `Step 13-14`: `15M` manage trade, go BE, and let it fly
+        ![Fail to break above/below sample1 step 13](fail-to-break-abovebelow-sample1-step13.png)
+        ![Fail to break above/below sample1 step 14](fail-to-break-abovebelow-sample1-step14.png)
+
+        `Step 15`: `4H` fail-to-break then break below
+        ![Fail to break above/below sample1 step 15](fail-to-break-abovebelow-sample1-step15.png)
+
+        3. Sample 2
+        
+        `Step 1-2`: `4H` always respect market movement; never anticipate! Clearly, we see rejection and momentum shift to make price fail to break above.  
+        
+        ![Fail to break above/below sample2 step 1](fail-to-break-abovebelow-sample2-step1.png)
+        ![Fail to break above/below sample2 step 2](fail-to-break-abovebelow-sample2-step2.png)
+
+
+        `Step 3`: `4H` mark high and wait to see if the line gets broken
+        ![Fail to break above/below sample2 step 3](fail-to-break-abovebelow-sample2-step3.png)
+
+        `Step 4-5`: `4H` it gets accumulated for an attempt to break above by forming LH. However, it finally rejects LH level by wick rejection
+        ![Fail to break above/below sample2 step 4](fail-to-break-abovebelow-sample2-step4.png)
+        ![Fail to break above/below sample2 step 5](fail-to-break-abovebelow-sample2-step5.png)    
+
+        `Step 6-7`: `4H` more evidence is confirmed by `break-in and break-out`. Mark retracement level (50%)
+        ![Fail to break above/below sample2 step 6](fail-to-break-abovebelow-sample2-step6.png)
+        ![Fail to break above/below sample2 step 7](fail-to-break-abovebelow-sample2-step7.png) 
+
+        `Step 8-9`: `1H` zoom to get clearer picture where we see fail-to-break above and show DT formation
+        ![Fail to break above/below sample2 step 8](fail-to-break-abovebelow-sample2-step8.png)
+        ![Fail to break above/below sample2 step 9](fail-to-break-abovebelow-sample2-step9.png) 
+
+        `Step 10`: `15M` see behaviour
+        ![Fail to break above/below sample2 step 10](fail-to-break-abovebelow-sample2-step10.png)
+        
+        `Step 11`: `15M` adjust potential retracement as we spot wicks respecting structure low in 15M
+        ![Fail to break above/below sample2 step 11](fail-to-break-abovebelow-sample2-step11.png)
+        
+        `Step 12`: `15M` wick tells us that it can't push higher or break above this level
+        ![Fail to break above/below sample2 step 12](fail-to-break-abovebelow-sample2-step12.png)
+
+        `Step 13-14`: `15M` probability of wick rejection or DT/DB in which this case is DT
+        ![Fail to break above/below sample2 step 13](fail-to-break-abovebelow-sample2-step13.png)
+        ![Fail to break above/below sample2 step 14](fail-to-break-abovebelow-sample2-step14.png)
+
+
+        `Step 15-16`: `15M` manage the trade, go BE, and let it flow
+        ![Fail to break above/below sample2 step 15](fail-to-break-abovebelow-sample2-step15.png)
+        ![Fail to break above/below sample2 step 16](fail-to-break-abovebelow-sample2-step16.png)
+
+        `Step 17`: `4H` it fails to break above, then we anticipate the early entry with DT.
+        ![Fail to break above/below sample2 step 17](fail-to-break-abovebelow-sample2-step17.png)
+
+
+        4. Sample 3
+
+        `Step 1-2`: `4H` always respect market movement; never anticipate! Clearly, we see rejection to the downside. Mark structure low and observe behaviour
+        
+        ![Fail to break above/below sample3 step 1](fail-to-break-abovebelow-sample3-step1.png)
+        ![Fail to break above/below sample3 step 2](fail-to-break-abovebelow-sample3-step2.png)
+
+        `Step 3`: `4H` momentum bar comes in to the upside convincing the market turnaround
+        ![Fail to break above/below sample3 step 3](fail-to-break-abovebelow-sample3-step3.png)
+
+        `Step 4`: `4H` mark retracement level (50%)
+        ![Fail to break above/below sample3 step 4](fail-to-break-abovebelow-sample3-step4.png)
+
+        `Step 5`: `1H` see clearer momentum 
+        ![Fail to break above/below sample3 step 5](fail-to-break-abovebelow-sample3-step5.png)
+
+        `Step 6-8`: `15M` wait to rejection around level that we marked recently
+        ![Fail to break above/below sample3 step 6](fail-to-break-abovebelow-sample3-step6.png)
+        ![Fail to break above/below sample3 step 7](fail-to-break-abovebelow-sample3-step7.png)
+        ![Fail to break above/below sample3 step 8](fail-to-break-abovebelow-sample3-step8.png)
+
+        `Step 9-11`: `15M` manage trade, go BE, and think about re-entry if needed or possible
+        ![Fail to break above/below sample3 step 9](fail-to-break-abovebelow-sample3-step9.png)
+        ![Fail to break above/below sample3 step 10](fail-to-break-abovebelow-sample3-step10.png)
+        ![Fail to break above/below sample3 step 11](fail-to-break-abovebelow-sample3-step11.png)
+
+        `Step 12-15`: `15M` re-entry with evidence which is, in this case, DB. manage trade, go BE, and let it fly
+        ![Fail to break above/below sample3 step 12](fail-to-break-abovebelow-sample3-step12.png)
+        ![Fail to break above/below sample3 step 13](fail-to-break-abovebelow-sample3-step13.png)
+        ![Fail to break above/below sample3 step 14](fail-to-break-abovebelow-sample3-step14.png)
+        ![Fail to break above/below sample3 step 15](fail-to-break-abovebelow-sample3-step15.png)
+
+        `Step 16`: `4H` it is fail-to-break followed by momentum shift with entry twice.
+        ![Fail to break above/below sample3 step 16](fail-to-break-abovebelow-sample3-step16.png)
+        
 3. Pattern that form in `1 x 4H`
     1. these patterns are developed with in `1 x 4H after momentum shift`
     2. patterns 
