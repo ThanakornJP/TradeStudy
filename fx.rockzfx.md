@@ -825,7 +825,60 @@ It simply goes thru 3 step
         ![Double top/bottom continuation sample 1 step 16](double-topbottom-continuation-sample1-step16.png)
 
         4. Sample 2
+
+        `Step 1-6`: `4H` Again, know the game (listen to what God is telling you about the market) to plan your trade. 
+        `Remember` Wait until you can clearly see.
+        `Note` always mark the range when you barely see the direction
+        `Tip` mark confluential wicks instead of highs. adjust accordingly to fit what market reveals to you at the moment
+
+        ![Double top/bottom continuation sample 2 step 1](double-topbottom-continuation-sample2-step1.png)
+        ![Double top/bottom continuation sample 2 step 2](double-topbottom-continuation-sample2-step2.png)
+        ![Double top/bottom continuation sample 2 step 3](double-topbottom-continuation-sample2-step3.png)
+        ![Double top/bottom continuation sample 2 step 4](double-topbottom-continuation-sample2-step4.png)
+        ![Double top/bottom continuation sample 2 step 5](double-topbottom-continuation-sample2-step5.png)
+        ![Double top/bottom continuation sample 2 step 6](double-topbottom-continuation-sample2-step6.png)
+
+        `Step 7`: `4H` wait patiently to see particular behaviour at the level we marked
+        ![Double top/bottom continuation sample 2 step 7](double-topbottom-continuation-sample2-step7.png)
+
+        `Step 8`: `4H` adjust level accordingly to fit your strategy. In this case, we need clearer break, so we shift level up. 
+        `Remember` Even nothing is perfect, but you need to be faithful to your strategy. If market doesn't give you a favour, just stay out.
+
+        ![Double top/bottom continuation sample 2 step 8](double-topbottom-continuation-sample2-step8.png)
+
+
+        `Step 9`: `4H` respect the market if it denies your expectation. 
+        `Remember` Don't expect, just react to what market is being revelaed. We play on the **game of possibility and probability**
+
+        ![Double top/bottom continuation sample 2 step 9](double-topbottom-continuation-sample2-step9.png)
+
+        `Step 10`: `4H` mark 50% retracement
+        ![Double top/bottom continuation sample 2 step 10](double-topbottom-continuation-sample2-step10.png)
+
+        `Step 11`: `1H` see behaviour/pattern at level we marked in lower timeframe
+        `Remember` don't forget to take a look `1H` `30M`
+        ![Double top/bottom continuation sample 2 step 11](double-topbottom-continuation-sample2-step11.png)
+
+        `Step 12-13`: `15M` map revealing behaviour/pattern onto our strategy, in which this case is D.T, to see if we can get our edge. Now, wait for lower high to be formed before moving forward
+        ![Double top/bottom continuation sample 2 step 12](double-topbottom-continuation-sample2-step12.png)
+        ![Double top/bottom continuation sample 2 step 13](double-topbottom-continuation-sample2-step13.png)
+
+        `Step 14`: `15M` wick rejection shown to confirm lower high
+        ![Double top/bottom continuation sample 2 step 14](double-topbottom-continuation-sample2-step14.png)
+
+        `Step 15-17`: `15M` manage trade, go BE, and let it fly
+        ![Double top/bottom continuation sample 2 step 15](double-topbottom-continuation-sample2-step15.png)
+        ![Double top/bottom continuation sample 2 step 16](double-topbottom-continuation-sample2-step16.png)
+        ![Double top/bottom continuation sample 2 step 17](double-topbottom-continuation-sample2-step17.png)
+
+        `Step 18`: `4H` trade in the range (micro swing trade). It is initially fail to break above/below and go ranging. Importantly, we see wick rejecting high of the range, then we anticipate to scalp on probability to the downside (structure low) based on 50% retracement anticipation
+        `Remember` we don't trade ranging much except there is an obvious opportunity for us to get in. 
+
+        ![Double top/bottom continuation sample 2 step 18](double-topbottom-continuation-sample2-step18.png)
+
         5. Sample 3
+        `Step 1-6`: `4H` Again, know the game (listen to what God is telling you about the market) to plan your trade. 
+        ![Double top/bottom continuation sample 3 step 1](double-topbottom-continuation-sample3-step1.png)
 
     5. Fail to break above/below
         1. How does it look like
