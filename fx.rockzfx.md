@@ -1361,10 +1361,12 @@ Basically, trading plan is your trading bible. You need to `have faith` in your 
 3. diagram
 4. entries and patterns
 5. how you will trade
+![Approach](approach.png)
 
 ### Rule
 1. protect you from going astray and doing wrong things
 2. give you more confidence and trust staying on track
+![Rule](rule.png)
 
 ### Goal
 `Remember` there is a path to success
