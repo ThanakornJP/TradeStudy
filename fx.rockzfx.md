@@ -22,10 +22,11 @@
 4. [Master Class 3.0 `Single timeframe mastery`](#master-class-30)
 5. [Master Class 4.0 `Scalping mastery`](#master-class-40)
 6. [Pattern and Process Mastermind](#pattern-and-process-mastermind)
-7. [Tips](#tips)
-8. [Challenge](#challenge)
-9. [Daily Questions to Ask](#daily-questions)
-10. [Keynote](#keynote)
+7. [Trading Plan Mastermind](#trading-plan-mastermind)
+8. [Tips](#tips)
+9. [Challenge](#challenge)
+10. [Daily Questions to Ask](#daily-questions)
+11. [Keynote](#keynote)
     - [Trading Process](#trading-process)
     - [Trading Perception](#trading-perception)
     - [Trading Rule](#trading-rule)
@@ -39,12 +40,12 @@
     - [Processing H4-H1-M15](#processing-h4-h1-m15)
     - [Processing H4-H1-M30](#processing-h4-h1-m30)
     - [Processing H4-H1-M1](#processing-h4-h1-m1)
-11. [Gold](#gold)
-12. [EURUSD](#eurusd)
-13. [GBPUSD](#gbpusd)
-14. [USDJPY](#usdjpy)
-15. [EURJPY](#eurjpy)
-16. [USDCHF](#usdchf)
+12. [Gold](#gold)
+13. [EURUSD](#eurusd)
+14. [GBPUSD](#gbpusd)
+15. [USDJPY](#usdjpy)
+16. [EURJPY](#eurjpy)
+17. [USDCHF](#usdchf)
 
 ---
 # Master Class Bootcamp
@@ -1324,6 +1325,116 @@ Jake (collegue)'s response
 ![Mastermind - Behaviour - Answer](mastermind-behaviour-answer-1.png)
 ![Mastermind - Behaviour - Answer](mastermind-behaviour-answer-2.png)
 
+---
+[Back to Agenda](#agenda)
+# Trading Plan Mastermind {#trading-plan-mastermind}
+
+### trading plan = trading bible
+`Remember` trading is a `business` and `journey` so it needs
+1. a plan -- `envisioning`
+2. constant guide -- `solutions`
+Basically, trading plan is your trading bible. You need to `have faith` in your trading bible.
+
+### what's inside ?
+- Think about this list, and commit yourself with discipline 
+- `Perspective rules` you need to get it right not skewed 
+- `Affirmation` promise myself something every month ex. i want to get my wife the best
+![What's inside trading plan](inside-trading-plan.png)
+
+### why you trade ?
+![Why you trade](why-trade.png)
+
+`Remember` dig deep your motivation not just surface
+- Drill 1 
+    - financial/potential freedom -- too board
+    - can spend time with the one I love to 
+    - wanna be happy 
+    - reach the state that can do anything make me happy
+- Drill 2
+    - to get struggle 
+    - to have better life
+    - to have whatever I have never had before
+
+### Approach ***
+1. strategy
+2. spell your strategy out loud -- have faith
+3. diagram
+4. entries and patterns
+5. how you will trade
+
+### Rule
+1. protect you from going astray and doing wrong things
+2. give you more confidence and trust staying on track
+
+### Goal
+`Remember` there is a path to success
+- you need to learn how to gain $1 before $100. Nothing's like 0 to hero, only process on the same goal makes you success
+- plan where you come from towards the desire state of the future
+- think about milestone you overcome
+![Goal](goal.png)
+
+### Pair
+`Remember` laser focus on what is relevant to you
+`Remember` there is always sexy pair for you to trade everyday, but stand tall on what you focus
+Ex. Rockz focuses on GBPUSD *** I trade bcoz I trade London open and I know everything about GU
+
+### Timeframe
+`Remember` stick to your working timeframe disciplinedly to protect you from getting distracted
+`Tip` backtest/forward test it until you are confident
+![Timeframe](timeframe.png)
+
+### Risk management
+- allow the numbers to play out
+- minimize 
+    - potential risk
+    - maximum exposure of ruin
+- avoid unpleasant surprises
+- maximize success
+- get you less worried - you know that you ain't gonna die 
+- make informed decision
+
+### Routine ***
+it helps you create a solid foundation
+`Remember` once you get in the routine, then momentum is in your favor
+![Routine](routine.png)
+
+### Tool
+1. increase proficiency
+2. decrease workload
+
+**Newbie Trader**
+1. open charts looking for opportunities
+
+**Serious Trader**
+1. what news we have today
+2. what happened yesterday that might affect today 
+3. review journal yesterday that I need to improve today
+
+### Review Process
+- we need to know `SWOT` of each strategy to tune/manage expectation right
+- it's timeout/boundary to reflect performance
+![Review Process](review-process.png)
+
+
+### Perspective Rules
+Are you being serious and realistic?
+![Perspective Rules](perspective-rules.png)
+
+### Affirmation
+![Affirmation](affirmation.png)
+
+### Discipline
+![Discipline](discipline.png)
+
+### Trading Commandments
+There must include `NEVER` and `ALWAYS`
+![Commandment](commandment.png)
+
+### Trading Plan Sample
+`Remember` cover all topics yourself to make it like living document
+![Trading Plan](trading-plan-1.png)
+![Trading Plan](trading-plan-2.png)
+![Trading Plan](trading-plan-3.png)
 
 ---
 [Back to Agenda](#agenda)

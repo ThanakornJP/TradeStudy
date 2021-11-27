@@ -1,9 +1,9 @@
 
 [/] 2.0
-[!] pattern and process
-[ ] trading plan
+[/] pattern and process
+[/] trading plan
 [ ] 3.0
-[ ] 4.0
+[!] 4.0
 
 
 [ ] 100 challenge 
