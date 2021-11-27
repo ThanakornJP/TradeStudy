@@ -1,6 +1,6 @@
 
-[!] 2.0
-[ ] pattern and process
+[/] 2.0
+[!] pattern and process
 [ ] trading plan
 [ ] 3.0
 [ ] 4.0

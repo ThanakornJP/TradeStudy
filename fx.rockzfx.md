@@ -1211,7 +1211,7 @@ Example
 [Back to Agenda](#agenda)
 # Pattern and Process Mastermind
 
-1. Structure
+### Structure
 - practice by reading from time to time and decompose what structure is being formed without entry consideration. Like, watch movie and **realize sequence of stories**
 - `Expectation`: Direction bias, level created, bahaviour including decision of sell or buy
 - Challenge 1 
@@ -1226,7 +1226,7 @@ Example
 ![Structure Mastermind Sample3 - Question](structure-mastermind-sample3-question.png)
 ![Structure Mastermind Sample3 - Answer](structure-mastermind-sample3-answer.png)
 
-2. Pattern
+### Pattern
 - practice by reading from time to time and spot what pattern is being formed 
 without entry consideration. Like, watch movie and **spot easter egg**.
 - `Expectation`: Pattern mapping
@@ -1242,23 +1242,88 @@ without entry consideration. Like, watch movie and **spot easter egg**.
 ![Pattern Mastermind Sample3 - Question](pattern-mastermind-sample3-question.png)
 ![Pattern Mastermind Sample3 - Answer](pattern-mastermind-sample3-answer.png)
 
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> need recheck
 Example 1: Chesseman, BOBBI, BNR
 ![Ex1](pattern-mastermind-ex1.png)
 ![Ex1](pattern-mastermind-ex1-2.png)
-
 Example 2:
 ![Ex2](pattern-mastermind-ex2.png)
-
 Example 3:
 ![Ex3](pattern-mastermind-ex3.png)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-**Plan**
+### What is xxx ?
+1. what is the plan-1 ?
+![Mastermind - What's the plan 1 - Question](mastermind-whats-plan-1-question.png)
+
+`Answer` 
+Since there is shift momentum shift downward breaking trendline, consolidating around structure low, and create LH afterward, now we need to wait and see if price breaking above major high or structure low to the downside to confirm reversal. In case of breaking above consolidation, we need to ponder 
+(1) would it retest around breakout level ?
+(2) do we have enough room for TP ?
+![Mastermind - What's the plan 1 - Answer](mastermind-whats-plan-1-answer-1.png)
+
+Jake (collegue)'s response
+![Mastermind - What's the plan 1 - Answer](mastermind-whats-plan-1-answer-2.png)
+
+2. what is the plan-2 ?
+![Mastermind - What's the plan 2 - Question](mastermind-whats-plan-2-question.png)
+
+`Answer` we are buy buyer bcoz it is breakout 30% retracement
+`Remember` never speculate, but react to the market
+![Mastermind - What's the plan 2 - Answer](mastermind-whats-plan-2-answer.png)
+
+3. what the the pattern-1 being developed ?
+![Mastermind - What's the pattern being developed 1 - Question](mastermind-whats-pattern-1-question.png)
+
+`Answer` momentum shift with wicks create LL/LH in lower timeframe
+![Mastermind - What's the plan 2 - Answer](mastermind-whats-pattern-1-answer.png)
+
+4. what the the pattern-2 being developed ?
+![Mastermind - What's the pattern being developed 2 - Question](mastermind-whats-pattern-2-question.png)
+
+`Answer` literally pullback to respect the level
+![Mastermind - What's the plan 2 - Answer](mastermind-whats-pattern-2-answer.png)
 
 
-### Craft plan
+### Is this xxx ?
+`Important` compile confluence/everything you have to make a decision based on your intuition. Don't hesitate or get paralized by overloaded analysis
+
+1. Is this break-n-retest?
+![Mastermind - Break-n-Retest - Question](mastermind-break-n-retest-question.png)
+
+`Answer` No, it is more like DT than Break-n-Retest. For Break-n-Retest, it can't get in right a way bcoz major level doesn't get broken yet.
+![Mastermind - Break-n-Retest - Answer](mastermind-break-n-retest-answer.png)
+
+2. Is this double top/bottom?
+![Mastermind - Break-n-Retest - Question](mastermind-dt-question.png)
+
+`Answer` No, we are initially sell bias by price breaking downward and create LH. However, it can't break the structure low to create LL. Instead, it rejects structure low and violates LH towards the key level (major high). Now, it is DT but it is not DT that we can sell bcoz LL has never made (no momentum shift comes after the rejecting the major high)
+![Mastermind - Break-n-Retest - Answer](mastermind-dt-answer.png)
+
+3. Is this good sell?
+![Mastermind - Good Sell - Question](mastermind-good-sell-question.png)
+
+`Answer` No, it isn't because sell bias has got broken, and new structure high gets broken subsequentially. Thus, this confirms reversal
+![Mastermind - Good Sell - Answer](mastermind-good-sell-answer.png)
+
+4. Is this good buy?
+![Mastermind - Good Buy - Question](mastermind-good-buy-question.png)
+
+`Answer` 
+- No, it basically shows Triple Bottom (TB) to indicate ranging, but wick rejects price to swing back to its high, and it forms lower high instead. From this point, we anticipate the breakout to confirm sell bias. 
+- In addition, if we visual downtrend (LH/LL) and decide to sell, we're doomed bcoz of no enough range for TP
+![Mastermind - Good Buy - Answer](mastermind-good-buy-answer.png)
 
 ### Describe Behaviour
+![Mastermind - Behaviour - Question](mastermind-behaviour-question.png)
+
+`Answer` Bearish pressure is essentially depleting to break and create LL, so we have options
+(1) DT shows up and we consider potential range before selling along the major direction
+(2) wait until structure low gets broken and retested before jumping in as sell buyer
+(3) wait until structure high gets broken and retested, then consider the range towards to major high before buying as reversal.
+![Mastermind - Behaviour - Answer](mastermind-behaviour-answer-1.png)
+![Mastermind - Behaviour - Answer](mastermind-behaviour-answer-2.png)
+
 
 ---
 [Back to Agenda](#agenda)
