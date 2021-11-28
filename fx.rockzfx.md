@@ -1338,7 +1338,7 @@ Jake (collegue)'s response
 
 ---
 [Back to Agenda](#agenda)
-# Trading Plan Mastermind {#trading-plan-mastermind}
+# Trading Plan Mastermind 
 
 ### trading plan = trading bible
 `Remember` trading is a `business` and `journey` so it needs
@@ -1451,7 +1451,7 @@ There must include `NEVER` and `ALWAYS`
 
 ---
 [Back to Agenda](#agenda)
-# Tips {#tips}
+# Tips 
 1. During push phase, if it exhausts to somewhere in between, it is still in the game. But, if it pullbacks to the origin of previous phase, reassess the structure again coz it is liquidity correction where structure may be probably changed.
 2. For retesting point, we disregard long wick’s area but accounting for small wick area.
 3. For clear structure both ranging and trending, we can draw a trend line or box to do buy or sell respecting touch points 
@@ -1492,7 +1492,7 @@ There must include `NEVER` and `ALWAYS`
 
 ---
 [Back to Agenda](#agenda)
-# Challenge {#challenge}
+# Challenge
 `Practice —> Challenge —> Optimize —> Repeat`
 
 [Challenge Sample Output](100-challenge-1.png)
