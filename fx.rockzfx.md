@@ -1198,26 +1198,92 @@ Example
 [Go to RRR Mastermind](#rr-mastermind)
 
 ### Key elements
-1. market structure
+1. market structure: trending or ranging
 2. normal pattern 
 3. extra pattern
 4. key level
 
-### Patterns
+### Breakdown of 4 main Market Structure + extra Market Structure  - `1M` 
+`Important` in `1M`, we don't trade `HH/HL` or `LL/LH` bcoz in `1M` price does not move the way you think it does. Therefore, we need patterns to cling to.  
 
-### Entries
+`Important` in `1M`, market won't draw you clear support/resistant
 
+`Important` you need to clearly segregate visualizing DT/DB | TT/TB from ranging market
+
+`Important` in `1M`, `limit order` does not work, so use `stop order` only
+
+`Important` in `1M`, there is no raning; only sentiment/emotion/momentum there. No structure could be found.
+
+1. `perfect` break-n-retest
+    - we need to see a perfect break-n-retest in `1M` 
+    - [/] price needs to leave the broken level and come back to retest it beautifully
+    - [x] can't proceed if close retest 
+    - [x] can't proceed if breaking don't leave the level before retesting. Rather, price is negotiated around the level
+    [1M-pattern-perfect-break-n-retest](1m-pattern-perfect-n-retest.png)
+
+2. DT/DB continuation
+    - simple DT/DB continuation in `1M`
+    [1M-pattern-dt_db-cont](1m-pattern-dt_db-cont.png)
+
+3. LH continuation (uptrend) / HL continuation (downtrend)
+    - it is `break` the structure followed by `slight pullback`
+    [1M-pattern-lh_hl-cont](1m-pattern-lh_hl-cont.png)
+
+4. Deep pullback to a major level
+    - Unless previous structure (`major level`) gets broken, we stick to the same bias 
+        - unless recent LH gets broken, we are buy buyers
+        - unless recent HL gets broken, we are sell buyers
+    - in `1M`, we need DT/DB formed to certify HH/HL or LH/LL
+        - if we take HH/HL or LH/LL, we are easily stoped out
+    [1M-pattern-deep-pullback](1m-pattern-deep-pullback.png)
+
+
+5. **extra** Triple Top/Bottom (TT/TB) Reversal
+    - treat it as DT/DB 
+    [1M-pattern-tt_tb-reversal](1m-pattern-deep-reversal.png)
+
+6. **extra** Consolidation Breakout Continuation
+    - wait from break above/below the range by momentum shift bar followed by short pause outside the range before continuing 
+    - potentially give you huge RR
+    - this is not  `perfect` break-n-retest, but `break-base-rally`
+    [1M-pattern-consolidation-breakout-cont](1m-pattern-consolidation-breakout-cont-1.png)
+    [1M-pattern-consolidation-breakout-cont](1m-pattern-consolidation-breakout-cont-2.png)
+    [1M-pattern-consolidation-breakout-cont](1m-pattern-consolidation-breakout-cont-3.png)
+
+    `Important` break-`BASE`-rally or `small pause` should be 1 or 2 candle only. a few more than 2 bars is not base we are looking for, so disregard them.  
+    
+    `Remember` no pullback is considered here
 ---
 [Back to Agenda](#agenda)
-# RR  Mastermind
+# RR Mastermind
 `Risk/Reward Ratio`
 
 Examine trade log to find the best adjustment for your business
+
+Backtest GBPUSD through your plan resulting in 356 trades taken
 ![Trade Log Inspection](rrr-inspection-1.png)
+
+Yield (1:3 BE 1:1) = 172R, 114R from London, 58R from NY
 ![Trade Log Inspection](rrr-inspection-2.png)
+
+Yield (1:3 w/o BE) = 186R, 130R from London, 56R from NY
 ![Trade Log Inspection](rrr-inspection-3.png)
+
+Yield (1:5 w/o BE) = 208R, 125R from London, 83R from NY
+Drawback: emotion seriously takes place 
 ![Trade Log Inspection](rrr-inspection-4.png)
+
+Yield (1:5 BE 1:1) = 218R, 129R from London, 89R from NY
+25.84% position will lose 
 ![Trade Log Inspection](rrr-inspection-5.png)
+
+`Findings`, 
+- `BE` is extremely important
+- `Best positioning` = `1:3 BE 1:1` or 1:5 BE 1:2
+- 1:5/1:2 lose 43.59% more of your trades than 1:3/1:1 to gain 14.68% more ROI
+
+![Trade Log Inspection](rrr-inspection-6.png)
+
 
 ---
 [Back to Agenda](#agenda)
