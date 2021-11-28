@@ -1194,10 +1194,7 @@ Example
 5. you'll be good to go if going with the `market flow`
 
 ### Data breakdown 
-1. data collection
-    1. observation
-    2. %win from no BE rule
-    3. %lose from winning position
+[Go to RRR Mastermind](#rr-mastermind)
 
 ### Key elements
 1. market structure
@@ -1205,8 +1202,21 @@ Example
 3. extra pattern
 4. key level
 
-### Time & Pair
-1. xxx
+### Patterns
+
+### Entries
+
+---
+[Back to Agenda](#agenda)
+# RR  Mastermind
+`Risk/Reward Ratio`
+
+Examine trade log to find the best adjustment for your business
+![Trade Log Inspection](rrr-inspection-1.png)
+![Trade Log Inspection](rrr-inspection-2.png)
+![Trade Log Inspection](rrr-inspection-3.png)
+![Trade Log Inspection](rrr-inspection-4.png)
+![Trade Log Inspection](rrr-inspection-5.png)
 
 ---
 [Back to Agenda](#agenda)
@@ -1355,80 +1365,80 @@ Basically, trading plan is your trading bible. You need to `have faith` in your 
     - to have better life
     - to have whatever I have never had before
 
-### Approach ***
-1. strategy
-2. spell your strategy out loud -- have faith
-3. diagram
-4. entries and patterns
-5. how you will trade
-![Approach](approach.png)
+1. Approach ***
+    1. strategy
+    2. spell your strategy out loud -- have faith
+    3. diagram
+    4. entries and patterns
+    5. how you will trade
+    ![Approach](approach.png)
 
-### Rule
-1. protect you from going astray and doing wrong things
-2. give you more confidence and trust staying on track
-![Rule](rule.png)
+2. Rule
+    1. protect you from going astray and doing wrong things
+    2. give you more confidence and trust staying on track
+    ![Rule](rule.png)
 
-### Goal
-`Remember` there is a path to success
-- you need to learn how to gain $1 before $100. Nothing's like 0 to hero, only process on the same goal makes you success
-- plan where you come from towards the desire state of the future
-- think about milestone you overcome
-![Goal](goal.png)
+3. Goal
+    `Remember` there is a path to success
+    - you need to learn how to gain $1 before $100. Nothing's like 0 to hero, only process on the same goal makes you success
+    - plan where you come from towards the desire state of the future
+    - think about milestone you overcome
+    ![Goal](goal.png)
 
-### Pair
+4. Pair
 `Remember` laser focus on what is relevant to you
 `Remember` there is always sexy pair for you to trade everyday, but stand tall on what you focus
 Ex. Rockz focuses on GBPUSD *** I trade bcoz I trade London open and I know everything about GU
 
-### Timeframe
+5. Timeframe
 `Remember` stick to your working timeframe disciplinedly to protect you from getting distracted
 `Tip` backtest/forward test it until you are confident
 ![Timeframe](timeframe.png)
 
-### Risk management
-- allow the numbers to play out
-- minimize 
-    - potential risk
-    - maximum exposure of ruin
-- avoid unpleasant surprises
-- maximize success
-- get you less worried - you know that you ain't gonna die 
-- make informed decision
+6. Risk management
+    - allow the numbers to play out
+    - minimize 
+        - potential risk
+        - maximum exposure of ruin
+    - avoid unpleasant surprises
+    - maximize success
+    - get you less worried - you know that you ain't gonna die 
+    - make informed decision
 
-### Routine ***
+7. Routine ***
 it helps you create a solid foundation
 `Remember` once you get in the routine, then momentum is in your favor
 ![Routine](routine.png)
 
-### Tool
-1. increase proficiency
-2. decrease workload
+8. Tool
+    1. increase proficiency
+    2. decrease workload
 
-**Newbie Trader**
-1. open charts looking for opportunities
+    **Newbie Trader**
+    1. open charts looking for opportunities
 
-**Serious Trader**
-1. what news we have today
-2. what happened yesterday that might affect today 
-3. review journal yesterday that I need to improve today
+    **Serious Trader**
+    1. what news we have today
+    2. what happened yesterday that might affect today 
+    3. review journal yesterday that I need to improve today
 
-### Review Process
-- we need to know `SWOT` of each strategy to tune/manage expectation right
-- it's timeout/boundary to reflect performance
-![Review Process](review-process.png)
+9. Review Process
+    - we need to know `SWOT` of each strategy to tune/manage expectation right
+    - it's timeout/boundary to reflect performance
+    ![Review Process](review-process.png)
 
 
-### Perspective Rules
+10. Perspective Rules
 Are you being serious and realistic?
 ![Perspective Rules](perspective-rules.png)
 
-### Affirmation
+11. Affirmation
 ![Affirmation](affirmation.png)
 
-### Discipline
+12. Discipline
 ![Discipline](discipline.png)
 
-### Trading Commandments
+13. Trading Commandments
 There must include `NEVER` and `ALWAYS`
 ![Commandment](commandment.png)
 
