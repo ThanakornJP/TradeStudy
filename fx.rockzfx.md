@@ -1186,6 +1186,14 @@ Example
 [Back to Agenda](#agenda)
 # Master Class 4.0
 `Unrivalled 1M scalping`
+[Table of contents](master-class-4-content-1.png)
+[Table of contents](master-class-4-content-2.png)
+
+
+`1M Caution !!!`
+> no dominant structure only trend and momentum
+> past data is useless; frame your focus on the current findings bcoz there is tremendous greed & emotion in `1M` that is why so-called structure is changed swiftly
+> cannot anticipate reversal no matter what! even though you see reseversal confirmed by break-n-retest
 
 ### Theory and What to expect
 1. `market always trends!` so go with market flow
@@ -1199,11 +1207,14 @@ Example
 
 ### Key elements
 1. market structure: trending or ranging
-2. normal pattern 
-3. extra pattern
-4. key level
+    1. main pattern 
+    2. extra pattern
+2. key level
+3. entry
 
-### Breakdown of 4 main Market Structure + extra Market Structure  - `1M` 
+### 1. Breakdown of 4 main Market Structure + 2 extra Market Structure  - `1M` 
+`Remember` in `1M` there is no structure, call whatever you want where in this case "structure/patter"
+
 `Important` in `1M`, we don't trade `HH/HL` or `LL/LH` bcoz in `1M` price does not move the way you think it does. Therefore, we need patterns to cling to.  
 
 `Important` in `1M`, market won't draw you clear support/resistant
@@ -1225,9 +1236,22 @@ Example
     - simple DT/DB continuation in `1M`
     [1M-pattern-dt_db-cont](1m-pattern-dt_db-cont.png)
 
+    `Note` Possible reversal entry
+
+    Only if we show DT in downtrend but can't push downward to retest level. Instead, create LH level confluenting with break-n-retest. Then, we can wait micro DB to buy as reversal trading. Likewise, if we see fail to higher by show LH confluenting with break-n-retest in uptrend, we can anticipate to see micro DT before selling towards major level
+    [1M-pattern-dt_db-reversal](1m-pattern-dt_db-reversal-1.png)    
+    [1M-pattern-dt_db-reversal](1m-pattern-dt_db-reversal-2.png)
+
 3. LH continuation (uptrend) / HL continuation (downtrend)
     - it is `break` the structure followed by `slight pullback`
     [1M-pattern-lh_hl-cont](1m-pattern-lh_hl-cont.png)
+
+    `Rule`
+    1. Downtrend, we can buy if we found TB to the major level. Uptrend, we can sell respecting TT to major level
+    [1M-pattern-lh_hl-rule](1m-pattern-lh_hl-rule-1.png)
+
+    2. Downtrend, we can sell eiter DT/TT to retest level. Uptrend, we can buy DB/TB to retest level
+    [1M-pattern-lh_hl-rule](1m-pattern-lh_hl-rule-2.png)
 
 4. Deep pullback to a major level
     - Unless previous structure (`major level`) gets broken, we stick to the same bias 
@@ -1240,7 +1264,7 @@ Example
 
 5. **extra** Triple Top/Bottom (TT/TB) Reversal
     - treat it as DT/DB 
-    [1M-pattern-tt_tb-reversal](1m-pattern-deep-reversal.png)
+    [1M-pattern-tt_tb-reversal](1m-pattern-tt_tb-reversal.png)
 
 6. **extra** Consolidation Breakout Continuation
     - wait from break above/below the range by momentum shift bar followed by short pause outside the range before continuing 
@@ -1253,6 +1277,88 @@ Example
     `Important` break-`BASE`-rally or `small pause` should be 1 or 2 candle only. a few more than 2 bars is not base we are looking for, so disregard them.  
     
     `Remember` no pullback is considered here
+
+7. **extra** Range bound 
+`Rule` 
+- You can only buy DT/DB and TT/TB. 
+- Don't touch 4th touching onwards; 3 touches are max.
+[1m-pattern-ranging-rule](1m-pattern-ranging-rule.png)
+
+**!! Primary Structure/Pattern !!**  
+`Remember` in `1M` there is no structure, call whatever you want where in this case "structure/patter"
+
+1. perfect break-n-retest
+[1M Key Pattern - Break-n-Retest](1m-key-pattern-break-n-retest.png)
+2. dt/db continuation
+[1M Key Pattern - DT/DB Continuation](1m-key-pattern-dt_db-cont.png)
+3. rally-base-rally (RBR) or strong break-out, pause, and continuation
+[1M Key Pattern - RBR](1m-key-pattern-rbr.png)
+4. TT/TB reversal
+[1M Key Pattern - TT/TB Reversal](1m-key-pattern-tt_tb-rev.png)
+
+### 2. Key Level
+Key level found in `1M only` not in any other timeframe
+
+`Note` it has to be either perfect break-n-retest or deep pullback
+
+`Important` don't trade outside the level. Just stick to key levels not in between even though it forms nice pattern
+
+1. major `deep pullback`
+2. perfect retest level ` perfect break-n-retest`
+[1M-key-level](1m-key-level-1.png)
+
+`Remember` taking a trade without key level confluential could lead to disaster
+
+[/] In sell bias, pattern could be formed under since it is still under selling pressure
+[1M-key-level-focus](1m-key-level-focus-2.png)
+
+[/] Our preference is perfect retest
+[1M-key-level-focus](1m-key-level-focus-3.png)
+
+[x] Reaction in the middle must be avoid; otherwise, you get stoped out easily
+[1M-key-level-focus](1m-key-level-focus-4.png)
+[1M-key-level-focus](1m-key-level-focus-5.png)
+
+
+`Important` don't look back; just focus on present
+intepret only what market presented to you at the moment with key level in mind
+[1M-key-level-focus](1m-key-level-focus-1.png)
+[1M-key-level-focus](1m-key-level-focus-2.png)
+
+3. example
+    1. Below charts show no break and create micro break-n-retest in the middle of key levels
+    [1M-key-level-sample](1m-key-level-sample-1.png)
+
+    2. Bear in mind we don't trade early reversal until it gets completely and confluentially confirmed
+    [1M-key-level-sample](1m-key-level-sample-2.png)
+
+    3. `Possibilities` here is to trade within a range
+    - Downtrend, DT to retest level or TB to major level
+    - Uptrend, DB to retest level or TT to major level
+    [1M-key-level-sample](1m-key-level-sample-3.png)
+    [1M-key-level-sample](1m-key-level-sample-4.png)
+
+    It could pullback in the middle. It doesn't have to shoot all the way up/down. 
+    [1M-key-level-sample](1m-key-level-sample-5.png)
+
+### 3. Entry Pattern
+1. pause-n-go
+[1M-entry-pause-n-go](1m-entry-pause-n-go-1.png)
+[1M-entry-pause-n-go](1m-entry-pause-n-go-2.png)
+
+2. wick rejection
+`Tips` don't dig deep otherwise you'll get distracted
+[1M-entry-wick-rejection](1m-entry-wick-rejection-1.png)
+[1M-entry-wick-rejection](1m-entry-wick-rejection-2.png)
+
+3. momentum bar 
+4. breakout break back-in
+`Remember` breakout break back-in (`BOBBI`) and break-in break back-out (`BIBBO`) are stop hunt technique. 
+- BOBBI is usually found in DT/DB
+- BIBBO is usually found in break-n-retest
+
+
+[1M-key-level-sample](1m-key-level-sample-5.png)
 ---
 [Back to Agenda](#agenda)
 # RR Mastermind
