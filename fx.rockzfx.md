@@ -1186,6 +1186,7 @@ Example
 [Back to Agenda](#agenda)
 # Master Class 4.0
 `Unrivalled 1M scalping`
+
 [Table of contents](master-class-4-content-1.png)
 [Table of contents](master-class-4-content-2.png)
 
